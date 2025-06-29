@@ -1,0 +1,2373 @@
+[
+  {
+    "en": "Hello!",
+    "km": "សួស្តី!",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good morning.",
+    "km": "អរុណសួស្តី។",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good afternoon.",
+    "km": "ទិវាសួស្តី។",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good evening.",
+    "km": "ល្ងាចសួស្តី។",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hi there!",
+    "km": "សួស្តីអ្នកនៅទីនោះ!",
+    "category": "Greetings"
+  },
+  {
+    "en": "How are you?",
+    "km": "តើអ្នកសុខសប្បាយទេ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Nice to meet you.",
+    "km": "រីករាយដែលបានជួបអ្នក។",
+    "category": "Greetings"
+  },
+  {
+    "en": "It’s good to see you.",
+    "km": "ខ្ញុំរីករាយដែលបានជួបអ្នក។",
+    "category": "Greetings"
+  },
+  {
+    "en": "Long time no see!",
+    "km": "យូរហើយដែលមិនបានជួបគ្នា!",
+    "category": "Greetings"
+  },
+  {
+    "en": "Welcome!",
+    "km": "សូមស្វាគមន៍!",
+    "category": "Greetings"
+  },
+  {
+    "en": "What’s up?",
+    "km": "មានអ្វីថ្មី?",
+    "category": "Greetings"
+  },
+  {
+    "en": "How’s it going?",
+    "km": "ក្តីការរបស់អ្នកដូចម្តេចខ្លះ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "How have you been?",
+    "km": "អ្នកសុខសប្បាយរយៈពេលនេះដែរឬទេ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hey!",
+    "km": "ហេយ៍!",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good to have you here.",
+    "km": "រីករាយដែលមានអ្នកនៅទីនេះ។",
+    "category": "Greetings"
+  },
+  {
+    "en": "How is everything?",
+    "km": "រឿងរ៉ាវទាំងអស់ដូចម្តេចខ្លះ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "It’s nice to see your smile.",
+    "km": "វាពិតជារីករាយដែលបានឃើញអ្នកញញឹម។",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good day!",
+    "km": "សូមអោយមានថ្ងៃល្អ!",
+    "category": "Greetings"
+  },
+  {
+    "en": "How do you do?",
+    "km": "សួស្តី! តើអ្នកសុខសប្បាយទេ? (ប្រើពេលផ្លូវការណ៍)",
+    "category": "Greetings"
+  },
+  {
+    "en": "Pleased to meet you.",
+    "km": "រីករាយដែលបានស្គាល់អ្នក។",
+    "category": "Greetings"
+  },
+
+
+  {
+    "en": "How are you doing today?",
+    "km": "ថ្ងៃនេះអ្នកសុខសប្បាយទេ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good to see you again.",
+    "km": "រីករាយដែលបានជួបអ្នកម្តងទៀត។",
+    "category": "Greetings"
+  },
+  {
+    "en": "I hope you’re doing well.",
+    "km": "ខ្ញុំសង្ឃឹមថាអ្នកកំពុងសុខសប្បាយ។",
+    "category": "Greetings"
+  },
+  {
+    "en": "What a pleasant surprise!",
+    "km": "វាជាការភ្ញាក់ផ្អើលដ៏រីករាយ!",
+    "category": "Greetings"
+  },
+  {
+    "en": "Glad to see you.",
+    "km": "រីករាយដែលបានជួបអ្នក។",
+    "category": "Greetings"
+  },
+  {
+    "en": "How’s your day?",
+    "km": "ថ្ងៃរបស់អ្នកដូចម្តេចខ្លះ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good to hear from you.",
+    "km": "រីករាយដែលបានឮពីអ្នក។",
+    "category": "Greetings"
+  },
+  {
+    "en": "What’s going on?",
+    "km": "កំពុងមានអ្វីកើតឡើង?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Everything okay?",
+    "km": "អ្វីៗទាំងអស់ប្រក្រតីទេ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "How’s your family?",
+    "km": "គ្រួសារអ្នកសុខសប្បាយទេ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "You look great today!",
+    "km": "អ្នកមើលទៅស្រស់ស្អាតណាស់ថ្ងៃនេះ!",
+    "category": "Greetings"
+  },
+  {
+    "en": "Have a great day!",
+    "km": "សូមអោយមានថ្ងៃល្អ!",
+    "category": "Greetings"
+  },
+  {
+    "en": "Is everything alright?",
+    "km": "អ្វីៗទាំងអស់គ្រប់យ៉ាងល្អទេ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "How was your weekend?",
+    "km": "ចុងសប្ដាហ៍របស់អ្នកដូចម្តេចខ្លះ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "I’m glad you’re here.",
+    "km": "ខ្ញុំរីករាយដែលអ្នកមាននៅទីនេះ។",
+    "category": "Greetings"
+  },
+
+
+  {
+    "en": "Hey there! How’s your morning?",
+    "km": "សួស្តី! ព្រឹករបស់អ្នកសុខសប្បាយទេ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good morning, teacher!",
+    "km": "អរុណសួស្តី លោកគ្រូ/អ្នកគ្រូ!",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hello again! Nice to see you back.",
+    "km": "សួស្តីម្តងទៀត! រីករាយដែលបានឃើញអ្នកវិលមកវិញ។",
+    "category": "Greetings"
+  },
+  {
+    "en": "Welcome to our class!",
+    "km": "សូមស្វាគមន៍មកកាន់ថ្នាក់រៀនរបស់យើង!",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good afternoon, how can I help you?",
+    "km": "ទិវាសួស្តី តើខ្ញុំអាចជួយអ្វីអ្នកបានខ្លះ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hey buddy, how’s life?",
+    "km": "ហេយ៍ មិត្តអើយ! រឿងរ៉ាវដំណើរការរបស់អ្នកដូចម្តេចខ្លះ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Top of the morning to you!",
+    "km": "អរុណសួស្តី (វាគ្មិនអង់គ្លេសខាងឯៀក)!",
+    "category": "Greetings"
+  },
+  {
+    "en": "Great to run into you today!",
+    "km": "រីករាយណាស់ដែលបានជួបអ្នកសថ្ងៃនេះ!",
+    "category": "Greetings"
+  },
+  {
+    "en": "How is your morning going?",
+    "km": "ព្រឹកនេះរបស់អ្នកកំពុងដំណើរការយ៉ាងដូចម្តេច?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hello there, stranger!",
+    "km": "សួស្តី អ្នកមិនស្គាល់!",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good to catch up with you!",
+    "km": "រីករាយដែលបានជជែកជាមួយអ្នកវិញ!",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hey, it’s been a while!",
+    "km": "ហេយ៍! យូរហើយដែលមិនបានជួប!",
+    "category": "Greetings"
+  },
+  {
+    "en": "Yo! How’s everything going?",
+    "km": "យ៉ូ! រឿងទាំងអស់កំពុងដំណើរការយ៉ាងដូចម្តេច?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good to be here with you.",
+    "km": "រីករាយដែលបាននៅទីនេះជាមួយអ្នក។",
+    "category": "Greetings"
+  },
+  {
+    "en": "Morning! Ready for the day?",
+    "km": "សួស្តីព្រឹក! តើអ្នករួចខ្លួនសម្រាប់ថ្ងៃនេះទេ?",
+    "category": "Greetings"
+  },
+
+
+  {
+    "en": "Good night and sweet dreams.",
+    "km": "រាត្រីសុភមង្គល និងសុបិន្តល្អៗ។",
+    "category": "Greetings"
+  },
+  {
+    "en": "How do you feel today?",
+    "km": "តើអ្នកមានអារម្មណ៍យ៉ាងដូចម្តេចថ្ងៃនេះ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hello! How’s your health?",
+    "km": "សួស្តី! សុខភាពរបស់អ្នកយ៉ាងដូចម្តេច?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good to meet you again.",
+    "km": "រីករាយដែលបានជួបអ្នកម្តងទៀត។",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hope you have a nice day.",
+    "km": "សង្ឃឹមថាអ្នកនឹងមានថ្ងៃល្អ។",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hi! What’s new with you?",
+    "km": "សួស្តី! មានអ្វីថ្មីៗជាមួយអ្នកទេ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "How’s your week been so far?",
+    "km": "សប្ដាហ៍របស់អ្នកកន្លងមកដូចម្តេច?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Nice to see you smiling.",
+    "km": "រីករាយដែលបានឃើញអ្នកញញឹម។",
+    "category": "Greetings"
+  },
+  {
+    "en": "How’s everything at home?",
+    "km": "រឿងទាំងអស់នៅផ្ទះដូចម្តេច?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good afternoon! How are things?",
+    "km": "ទិវាសួស្តី! រឿងរ៉ាវដូចម្តេច?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hello! It’s nice to see you.",
+    "km": "សួស្តី! រីករាយដែលបានជួបអ្នក។",
+    "category": "Greetings"
+  },
+  {
+    "en": "Wishing you a wonderful day.",
+    "km": "សូមជូនពរឱ្យអ្នកមានថ្ងៃល្អ។",
+    "category": "Greetings"
+  },
+  {
+    "en": "How are things going?",
+    "km": "រឿងរ៉ាវកំពុងដំណើរការយ៉ាងដូចម្តេច?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hey! How have you been lately?",
+    "km": "ហេយ៍! អ្នកសុខសប្បាយរយៈពេលនេះដែរឬទេ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good evening! How was your day?",
+    "km": "ល្ងាចសួស្តី! ថ្ងៃរបស់អ្នកដូចម្តេចខ្លះ?",
+    "category": "Greetings"
+  },
+
+
+  {
+    "en": "Good to see you bright and early!",
+    "km": "រីករាយដែលបានឃើញអ្នកភ្លឺភ្លាត់នៅព្រឹក!",
+    "category": "Greetings"
+  },
+  {
+    "en": "How’s your day going so far?",
+    "km": "ថ្ងៃរបស់អ្នកដំណើរការយ៉ាងដូចម្តេចរហូតមកដល់បច្ចុប្បន្ន?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hello! Hope you are doing fine.",
+    "km": "សួស្តី! សង្ឃឹមថាអ្នកកំពុងសុខសប្បាយ។",
+    "category": "Greetings"
+  },
+  {
+    "en": "How have you been feeling lately?",
+    "km": "អ្នកមានអារម្មណ៍យ៉ាងដូចម្តេចកន្លងមកនេះ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hey! What have you been up to?",
+    "km": "ហេយ៍! តើអ្នកបានធ្វើអ្វីខ្លះកន្លងមក?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good afternoon! Hope your day is going well.",
+    "km": "ទិវាសួស្តី! សង្ឃឹមថាថ្ងៃរបស់អ្នកដំណើរការល្អ។",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hello! It’s a pleasure to meet you.",
+    "km": "សួស្តី! វាពិតជារីករាយដែលបានជួបអ្នក។",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hi! How’s everything with you?",
+    "km": "សួស្តី! រឿងរ៉ាវទាំងអស់ជាមួយអ្នកដូចម្តេច?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good evening! How did your day go?",
+    "km": "ល្ងាចសួស្តី! ថ្ងៃរបស់អ្នកដំណើរការយ៉ាងដូចម្តេច?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hey there! Long time no talk.",
+    "km": "ហេយ៍! យូរហើយដែលមិនបាននិយាយ។",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hello! I hope all is well.",
+    "km": "សួស្តី! ខ្ញុំសង្ឃឹមថារឿងទាំងអស់ល្អ។",
+    "category": "Greetings"
+  },
+  {
+    "en": "How’s your family doing these days?",
+    "km": "គ្រួសារអ្នកកំពុងដំណើរការយ៉ាងដូចម្តេចក្នុងរយៈពេលនេះ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good to see you looking so happy!",
+    "km": "រីករាយដែលបានឃើញអ្នកមើលទៅមានសេចក្តីសុខ!",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hi! How’s your weekend going?",
+    "km": "សួស្តី! ចុងសប្ដាហ៍របស់អ្នកដំណើរការយ៉ាងដូចម្តេច?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good morning! Ready for a new day?",
+    "km": "អរុណសួស្តី! តើអ្នករួចខ្លួនសម្រាប់ថ្ងៃថ្មីមែនទេ?",
+    "category": "Greetings"
+  },
+
+
+  {
+    "en": "Hello! How are you feeling today?",
+    "km": "សួស្តី! ថ្ងៃនេះអ្នកមានអារម្មណ៍យ៉ាងដូចម្តេច?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good morning! Did you sleep well?",
+    "km": "អរុណសួស្តី! តើអ្នកបានគេងលក់ល្អទេ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hi! What are your plans for today?",
+    "km": "សួស្តី! តើអ្នកមានផែនការអ្វីសម្រាប់ថ្ងៃនេះ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good afternoon! How is work going?",
+    "km": "ទិវាសួស្តី! ការងាររបស់អ្នកដំណើរការយ៉ាងដូចម្តេច?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hey! It’s nice to see you again.",
+    "km": "ហេយ៍! រីករាយដែលបានឃើញអ្នកម្តងទៀត។",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hello! Have you eaten yet?",
+    "km": "សួស្តី! តើអ្នកបានញ៉ាំអាហារហើយទេ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good evening! How was your day?",
+    "km": "ល្ងាចសួស្តី! ថ្ងៃរបស់អ្នកដូចម្តេចខ្លះ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hi! How’s your family doing?",
+    "km": "សួស្តី! គ្រួសារអ្នកសុខសប្បាយទេ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hello! What’s new with you?",
+    "km": "សួស្តី! មានអ្វីថ្មីៗជាមួយអ្នកទេ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good to see you smiling today!",
+    "km": "រីករាយដែលបានឃើញអ្នកញញឹមថ្ងៃនេះ!",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hey there! How have you been?",
+    "km": "ហេយ៍! អ្នកសុខសប្បាយរហូតមកដល់ពេលនេះទេ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good morning! Ready for the day ahead?",
+    "km": "អរុណសួស្តី! តើអ្នករួចខ្លួនសម្រាប់ថ្ងៃនេះហើយទេ?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hello! It’s great to see you.",
+    "km": "សួស្តី! រីករាយណាស់ដែលបានជួបអ្នក។",
+    "category": "Greetings"
+  },
+  {
+    "en": "Hi! How are things going for you?",
+    "km": "សួស្តី! រឿងរ៉ាវដំណើរការយ៉ាងដូចម្តេចសម្រាប់អ្នក?",
+    "category": "Greetings"
+  },
+  {
+    "en": "Good evening! Hope you had a good day.",
+    "km": "ល្ងាចសួស្តី! សង្ឃឹមថាអ្នកមានថ្ងៃល្អ។",
+    "category": "Greetings"
+  },
+
+
+  {
+    "en": "Hello, my name is Sokha.",
+    "km": "សួស្តី ខ្ញុំឈ្មោះ សុខា។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I am from Cambodia.",
+    "km": "ខ្ញុំមកពីប្រទេសកម្ពុជា។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "Nice to meet you.",
+    "km": "រីករាយដែលបានជួបអ្នក។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I am a student.",
+    "km": "ខ្ញុំជាសិស្ស។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I like to learn English.",
+    "km": "ខ្ញុំចូលចិត្តរៀនភាសាអង់គ្លេស។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "What is your name?",
+    "km": "តើអ្នកឈ្មោះអ្វី?",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "Where are you from?",
+    "km": "តើអ្នកមកពីណា?",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I live in Phnom Penh.",
+    "km": "ខ្ញុំរស់នៅភ្នំពេញ។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "How old are you?",
+    "km": "តើអ្នកមានអាយុប៉ុន្មាន?",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I am 20 years old.",
+    "km": "ខ្ញុំអាយុ ២០ ឆ្នាំ។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "Do you speak English?",
+    "km": "តើអ្នកនិយាយភាសាអង់គ្លេសទេ?",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "Yes, a little.",
+    "km": "បាន មួយចំនួនតិចតួច។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "What do you do?",
+    "km": "តើអ្នកធ្វើអ្វី?",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I am a teacher.",
+    "km": "ខ្ញុំជាគ្រូបង្រៀន។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I like reading books.",
+    "km": "ខ្ញុំចូលចិត្តអានសៀវភៅ។",
+    "category": "Introducing Yourself"
+  },
+
+
+  {
+    "en": "I work at a company.",
+    "km": "ខ្ញុំធ្វើការនៅក្រុមហ៊ុនមួយ។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I enjoy playing football.",
+    "km": "ខ្ញុំចូលចិត្តលេងបាល់ទាត់។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "My hobby is drawing.",
+    "km": "ចំណូលចិត្តរបស់ខ្ញុំគឺគូររូប។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I have a brother and a sister.",
+    "km": "ខ្ញុំមានបងប្អូនប្រុស និងបងប្អូនស្រី។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I am learning English to communicate better.",
+    "km": "ខ្ញុំកំពុងរៀនភាសាអង់គ្លេសដើម្បីធ្វើការទំនាក់ទំនងបានល្អប្រសើរ។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "Where do you live?",
+    "km": "តើអ្នករស់នៅទីណា?",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I live with my family.",
+    "km": "ខ្ញុំរស់នៅជាមួយគ្រួសាររបស់ខ្ញុំ។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "What is your favorite food?",
+    "km": "តើម្ហូបដែលអ្នកចូលចិត្តបំផុតគឺអ្វី?",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "My favorite color is blue.",
+    "km": "ពណ៌ដែលខ្ញុំចូលចិត្តបំផុតគឺពណ៌ខៀវ។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "Do you have any pets?",
+    "km": "តើអ្នកមានសត្វចិញ្ចឹមទេ?",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "Yes, I have a cat.",
+    "km": "បាន ខ្ញុំមានឆ្មា។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "No, I don't have any pets.",
+    "km": "ទេ ខ្ញុំមិនមានសត្វចិញ្ចឹមទេ។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I like to travel.",
+    "km": "ខ្ញុំចូលចិត្តធ្វើដំណើរ។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "What languages do you speak?",
+    "km": "តើអ្នកនិយាយភាសាអ្វីខ្លះ?",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I speak Khmer and a little English.",
+    "km": "ខ្ញុំនិយាយភាសាខ្មែរនិងភាសាអង់គ្លេសតិចតួច។",
+    "category": "Introducing Yourself"
+  },
+
+
+  {
+    "en": "I like listening to music.",
+    "km": "ខ្ញុំចូលចិត្តស្តាប់តន្ត្រី។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "My birthday is in July.",
+    "km": "ថ្ងៃកំណើតរបស់ខ្ញុំគឺខែកក្កដា។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I have many friends.",
+    "km": "ខ្ញុំមានមិត្តភក្តិជាច្រើន។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "What is your favorite hobby?",
+    "km": "តើចំណូលចិត្តរបស់អ្នកគឺអ្វី?",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I am happy to meet new people.",
+    "km": "ខ្ញុំរីករាយដែលបានជួបមនុស្សថ្មី។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I live near the school.",
+    "km": "ខ្ញុំរស់នៅជិតសាលារៀន។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "My family is very kind.",
+    "km": "គ្រួសាររបស់ខ្ញុំមានចិត្តសប្បុរសណាស់។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I study every day.",
+    "km": "ខ្ញុំសិក្សារៀងរាល់ថ្ងៃ។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "What is your favorite sport?",
+    "km": "តើកីឡាដែលអ្នកចូលចិត្តបំផុតគឺអ្វី?",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I like to watch movies.",
+    "km": "ខ្ញុំចូលចិត្តមើលភាពយន្ត។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I am learning English to travel abroad.",
+    "km": "ខ្ញុំកំពុងរៀនភាសាអង់គ្លេសដើម្បីធ្វើដំណើរទៅបរទេស។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "Do you have brothers or sisters?",
+    "km": "តើអ្នកមានបងប្អូនទេ?",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I like to cook food.",
+    "km": "ខ្ញុំចូលចិត្តចម្អិនម្ហូប។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I live in a big city.",
+    "km": "ខ្ញុំរស់នៅក្នុងទីក្រុងធំមួយ។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "My favorite season is summer.",
+    "km": "រដូវដែលខ្ញុំចូលចិត្តបំផុតគឺរដូវក្តៅ។",
+    "category": "Introducing Yourself"
+  },
+
+
+  {
+    "en": "I enjoy reading stories.",
+    "km": "ខ្ញុំចូលចិត្តអានរឿង។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "My favorite animal is the dog.",
+    "km": "សត្វដែលខ្ញុំចូលចិត្តបំផុតគឺឆ្កែ។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I want to learn more every day.",
+    "km": "ខ្ញុំចង់រៀនបន្ថែមរៀងរាល់ថ្ងៃ។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "Where do you work?",
+    "km": "តើអ្នកធ្វើការនៅទីណា?",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I like to help others.",
+    "km": "ខ្ញុំចូលចិត្តជួយអ្នកដទៃ។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "My house is near the park.",
+    "km": "ផ្ទះរបស់ខ្ញុំស្ថិតនៅជិតសួនច្បារ។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I am very friendly.",
+    "km": "ខ្ញុំមានមិត្តភាពល្អណាស់។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "Do you like music?",
+    "km": "តើអ្នកចូលចិត្តតន្ត្រីទេ?",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I like to ride a bicycle.",
+    "km": "ខ្ញុំចូលចិត្តជិះកង់។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "What is your favorite movie?",
+    "km": "តើភាពយន្តដែលអ្នកចូលចិត្តបំផុតគឺអ្វី?",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I have lived here for five years.",
+    "km": "ខ្ញុំបានរស់នៅទីនេះរយៈពេលប្រាំឆ្នាំ។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I like to meet new friends.",
+    "km": "ខ្ញុំចូលចិត្តជួបមិត្តថ្មី។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I am learning English online.",
+    "km": "ខ្ញុំកំពុងរៀនភាសាអង់គ្លេសតាមអនឡាញ។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "Do you like sports?",
+    "km": "តើអ្នកចូលចិត្តកីឡាទេ?",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I like to swim in the pool.",
+    "km": "ខ្ញុំចូលចិត្តហែលទឹកក្នុងអាងហែលទឹក។",
+    "category": "Introducing Yourself"
+  },
+
+
+  {
+    "en": "I have two sisters and one brother.",
+    "km": "ខ្ញុំមានបងស្រីពីរ និងបងប្រុសមួយ។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I enjoy cooking traditional food.",
+    "km": "ខ្ញុំចូលចិត្តចម្អិនម្ហូបប្រពៃណី។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "What languages do you want to learn?",
+    "km": "តើអ្នកចង់រៀនភាសាអ្វីខ្លះ?",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I want to travel the world someday.",
+    "km": "ខ្ញុំចង់ធ្វើដំណើរពិភពលោកមួយថ្ងៃ។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I like to watch sports on TV.",
+    "km": "ខ្ញុំចូលចិត្តមើលកីឡាតាមទូរទស្សន៍។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I am learning English to get a better job.",
+    "km": "ខ្ញុំកំពុងរៀនភាសាអង់គ្លេសដើម្បីរកការងារល្អប្រសើរ។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "Do you have a favorite book?",
+    "km": "តើអ្នកមានសៀវភៅចូលចិត្តទេ?",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "My favorite book is a story about friendship.",
+    "km": "សៀវភៅដែលខ្ញុំចូលចិត្តគឺរឿងអំពីមិត្តភាព។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I live in a small town.",
+    "km": "ខ្ញុំរស់នៅក្នុងទីក្រុងតូចមួយ។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I enjoy gardening during weekends.",
+    "km": "ខ្ញុំចូលចិត្តធ្វើសួនច្បារនៅចុងសប្ដាហ៍។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "What is your favorite fruit?",
+    "km": "តើផ្លែឈើដែលអ្នកចូលចិត្តបំផុតគឺអ្វី?",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "My favorite fruit is mango.",
+    "km": "ផ្លែឈើដែលខ្ញុំចូលចិត្តបំផុតគឺមANGO។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I am learning English for my future.",
+    "km": "ខ្ញុំកំពុងរៀនភាសាអង់គ្លេសសម្រាប់អនាគតរបស់ខ្ញុំ។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "I enjoy meeting new people.",
+    "km": "ខ្ញុំចូលចិត្តជួបមនុស្សថ្មីៗ។",
+    "category": "Introducing Yourself"
+  },
+  {
+    "en": "Do you like to read books?",
+    "km": "តើអ្នកចូលចិត្តអានសៀវភៅទេ?",
+    "category": "Introducing Yourself"
+  },
+
+
+  {
+    "en": "I wake up at 6 o'clock.",
+    "km": "ខ្ញុំភ្ញាក់នៅម៉ោង ៦ ព្រឹក។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I brush my teeth every morning.",
+    "km": "ខ្ញុំសំអាតធ្មេញរៀងរាល់ព្រឹក។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I eat breakfast at home.",
+    "km": "ខ្ញុំបរិច្ឆេទអាហារព្រឹកនៅផ្ទះ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I go to school by bus.",
+    "km": "ខ្ញុំទៅសាលាដោយឡានក្រុង។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I study English every day.",
+    "km": "ខ្ញុំសិក្សាភាសាអង់គ្លេសរៀងរាល់ថ្ងៃ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I take a break at noon.",
+    "km": "ខ្ញុំសម្រាកនៅពេលថ្ងៃត្រង់។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I eat lunch at 12 o'clock.",
+    "km": "ខ្ញុំបរិច្ឆេទអាហារថ្ងៃត្រង់ម៉ោង ១២។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I do my homework in the afternoon.",
+    "km": "ខ្ញុំធ្វើការផ្ទះនៅវេលាយប់។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I play football with my friends.",
+    "km": "ខ្ញុំលេងបាល់ទាត់ជាមួយមិត្តភក្តិ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I watch TV in the evening.",
+    "km": "ខ្ញុំមើលទូរទស្សន៍នៅល្ងាច។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I eat dinner with my family.",
+    "km": "ខ្ញុំបរិច្ឆេទអាហារពេលល្ងាចជាមួយគ្រួសារ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I go to bed at 10 o'clock.",
+    "km": "ខ្ញុំទៅដេកម៉ោង ១០ យប់។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I like to read books before sleeping.",
+    "km": "ខ្ញុំចូលចិត្តអានសៀវភៅមុនពេលដេក។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I drink water every day.",
+    "km": "ខ្ញុំផឹកទឹករៀងរាល់ថ្ងៃ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I clean my room on weekends.",
+    "km": "ខ្ញុំសំអាតបន្ទប់នៅចុងសប្ដាហ៍។",
+    "category": "Daily Activities"
+  },
+
+
+  {
+    "en": "I take a shower every morning.",
+    "km": "ខ្ញុំងូតទឹករៀងរាល់ព្រឹក។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I get dressed quickly.",
+    "km": "ខ្ញុំពាក់អាវក្រណាត់យ៉ាងរហ័ស។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I listen to music while working.",
+    "km": "ខ្ញុំស្តាប់តន្ត្រីពេលធ្វើការ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I drive to work every day.",
+    "km": "ខ្ញុំបើកឡានទៅធ្វើការរៀងរាល់ថ្ងៃ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I check my emails in the morning.",
+    "km": "ខ្ញុំពិនិត្យអ៊ីមែលនៅព្រឹក។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I have a meeting at 3 PM.",
+    "km": "ខ្ញុំមានកិច្ចប្រជុំម៉ោង ៣ ល្ងាច។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I cook dinner for my family.",
+    "km": "ខ្ញុំចម្អិនអាហារពេលល្ងាចសម្រាប់គ្រួសារ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I clean the house every weekend.",
+    "km": "ខ្ញុំសម្អាតផ្ទះរៀងរាល់ចុងសប្ដាហ៍។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I water the plants in the garden.",
+    "km": "ខ្ញុំជ្រុះទឹកឲ្យផ្កានៅសួន។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I take the dog for a walk.",
+    "km": "ខ្ញុំអូសឆ្កែទៅដើរ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I read the newspaper every morning.",
+    "km": "ខ្ញុំអានកាសែតរៀងរាល់ព្រឹក។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I do exercise three times a week.",
+    "km": "ខ្ញុំហាត់ប្រាណបីដងក្នុងមួយសប្ដាហ៍។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I relax by watching movies.",
+    "km": "ខ្ញុំសម្រាកដោយមើលភាពយន្ត។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I chat with my friends online.",
+    "km": "ខ្ញុំផ្ញើសារជាមួយមិត្តភក្តិតាមអនឡាញ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I prepare my bag before going to school.",
+    "km": "ខ្ញុំរៀបចំកាបូបរបស់ខ្ញុំពេលចេញទៅសាលា។",
+    "category": "Daily Activities"
+  },
+
+
+  {
+    "en": "I wake up early every day.",
+    "km": "ខ្ញុំភ្ញាក់មុនពេលរាល់ថ្ងៃ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I take a short nap in the afternoon.",
+    "km": "ខ្ញុំដេកខ្លីនៅពេលថ្ងៃត្រង់។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I go shopping on Saturdays.",
+    "km": "ខ្ញុំទៅទិញទំនិញនៅថ្ងៃសៅរ៍។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I feed the cat every morning.",
+    "km": "ខ្ញុំឲ្យឆ្មាញាំរៀងរាល់ព្រឹក។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I write in my diary before sleeping.",
+    "km": "ខ្ញុំសរសេរនៅក្នុងកំណត់ហេតុនៅមុនពេលដេក។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I take the bus to work.",
+    "km": "ខ្ញុំជិះឡានក្រុងទៅធ្វើការ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I enjoy drinking coffee in the morning.",
+    "km": "ខ្ញុំចូលចិត្តផឹកកាហ្វេនៅព្រឹក។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I wash the dishes after dinner.",
+    "km": "ខ្ញុំលាងចានបន្ទាប់ពីបរិច្ឆេទអាហារពេលល្ងាច។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I go to the gym twice a week.",
+    "km": "ខ្ញុំទៅហាត់ប្រាណពីរដងក្នុងមួយសប្ដាហ៍។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I chat with my family every evening.",
+    "km": "ខ្ញុំសន្ទនាជាមួយគ្រួសាររៀងរាល់ល្ងាច។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I water the flowers every morning.",
+    "km": "ខ្ញុំជ្រុះទឹកផ្ការៀងរាល់ព្រឹក។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I prepare breakfast for my children.",
+    "km": "ខ្ញុំរៀបចំអាហារព្រឹកសម្រាប់កូនៗរបស់ខ្ញុំ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I take a walk in the evening.",
+    "km": "ខ្ញុំទៅដើរលេងនៅល្ងាច។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I listen to the radio while cooking.",
+    "km": "ខ្ញុំស្តាប់វិទ្យុពេលចម្អិនម្ហូប។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I do housework every day.",
+    "km": "ខ្ញុំធ្វើការផ្ទះរៀងរាល់ថ្ងៃ។",
+    "category": "Daily Activities"
+  },
+
+
+  {
+    "en": "I prepare my clothes the night before.",
+    "km": "ខ្ញុំរៀបចំអាវសម្លៀកបំពាក់របស់ខ្ញុំយប់មុន។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I check my phone in the morning.",
+    "km": "ខ្ញុំពិនិត្យទូរស័ព្ទនៅព្រឹក។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I listen to podcasts during my commute.",
+    "km": "ខ្ញុំស្តាប់កម្មវិធីផុតខាសពេលធ្វើដំណើរ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I prepare lunch for work.",
+    "km": "ខ្ញុំរៀបចំអាហារថ្ងៃត្រង់សម្រាប់ធ្វើការ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I clean my desk every evening.",
+    "km": "ខ្ញុំសម្អាតតុរបស់ខ្ញុំនៅល្ងាច។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I take my vitamins every morning.",
+    "km": "ខ្ញុំទទួលវីតាមីនរៀងរាល់ព្រឹក។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I meditate for ten minutes daily.",
+    "km": "ខ្ញុំធ្វើការគិតសម្រាប់ដប់នាទីរៀងរាល់ថ្ងៃ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I check the weather forecast each morning.",
+    "km": "ខ្ញុំពិនិត្យព្យាករណ៍អាកាសធាតុរៀងរាល់ព្រឹក។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I write emails at work.",
+    "km": "ខ្ញុំសរសេរអ៊ីមែលនៅកន្លែងធ្វើការ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I prepare snacks for the kids.",
+    "km": "ខ្ញុំរៀបចំអាហារសម្រន់សម្រាប់ក្មេងៗ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I take photos during my free time.",
+    "km": "ខ្ញុំថតរូបនៅពេលមានពេលវេលា។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I listen to music while exercising.",
+    "km": "ខ្ញុំស្តាប់តន្ត្រីពេលហាត់ប្រាណ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I go to bed early on weekdays.",
+    "km": "ខ្ញុំទៅដេកមុននៅថ្ងៃធ្វើការ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I enjoy relaxing with a good book.",
+    "km": "ខ្ញុំចូលចិត្តសម្រាកជាមួយសៀវភៅល្អមួយ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I clean the windows once a month.",
+    "km": "ខ្ញុំសម្អាតបង្អួចមួយដងក្នុងមួយខែ។",
+    "category": "Daily Activities"
+  },
+
+
+  {
+    "en": "I water my garden every morning.",
+    "km": "ខ្ញុំជ្រុះទឹកសួនរបស់ខ្ញុំនៅរៀងរាល់ព្រឹក។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I ride my bicycle to work sometimes.",
+    "km": "ខ្ញុំជិះកង់ទៅធ្វើការក្នុងពេលខ្លះ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I take my dog to the park on weekends.",
+    "km": "ខ្ញុំអូសឆ្កែទៅសួនកម្សាន្តនៅចុងសប្តាហ៍។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I read a book before going to sleep.",
+    "km": "ខ្ញុំអានសៀវភៅមុនពេលទៅដេក។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I prepare my school bag every night.",
+    "km": "ខ្ញុំរៀបចំកាបូបសាលារបស់ខ្ញុំនៅរាត្រី។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I check social media during breaks.",
+    "km": "ខ្ញុំពិនិត្យបណ្ដាញសង្គមពេលសម្រាក។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I cook breakfast for my family.",
+    "km": "ខ្ញុំចម្អិនអាហារព្រឹកសម្រាប់គ្រួសារ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I enjoy walking in the park.",
+    "km": "ខ្ញុំចូលចិត្តដើរលេងនៅសួនកម្សាន្ត។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I water the plants in the morning.",
+    "km": "ខ្ញុំជ្រុះទឹកឲ្យរុក្ខជាតិនៅព្រឹក។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I listen to audiobooks while traveling.",
+    "km": "ខ្ញុំស្តាប់សៀវភៅអូឌីយ៉ូពេលធ្វើដំណើរ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I clean my car every week.",
+    "km": "ខ្ញុំសម្អាតរថយន្តរបស់ខ្ញុំរៀងរាល់សប្តាហ៍។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I help my children with their homework.",
+    "km": "ខ្ញុំជួយកូនៗធ្វើការផ្ទះ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I meditate to relax my mind.",
+    "km": "ខ្ញុំធ្វើការគិតដើម្បីសម្រាកចិត្ត។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I take a shower before going out.",
+    "km": "ខ្ញុំងូតទឹកមុនពេលចេញក្រៅ។",
+    "category": "Daily Activities"
+  },
+  {
+    "en": "I enjoy spending time with my family.",
+    "km": "ខ្ញុំចូលចិត្តចំណាយពេលជាមួយគ្រួសារ។",
+    "category": "Daily Activities"
+  },
+
+
+  {
+    "en": "Goodbye!",
+    "km": "លាហើយ!",
+    "category": "Farewells"
+  },
+  {
+    "en": "See you later.",
+    "km": "សូមជួបគ្នាថ្ងៃក្រោយ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "See you soon.",
+    "km": "ជួបគ្នាឆាប់ៗនេះ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Take care.",
+    "km": "រក្សាសុខភាពល្អ!",
+    "category": "Farewells"
+  },
+  {
+    "en": "Have a nice day.",
+    "km": "សូមឲ្យមានថ្ងៃល្អ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "See you tomorrow.",
+    "km": "ជួបគ្នាថ្ងៃស្អែក។",
+    "category": "Farewells"
+  },
+  {
+    "en": "I have to go now.",
+    "km": "ខ្ញុំត្រូវចេញទៅឥឡូវនេះ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Good night.",
+    "km": "រាត្រីសួស្តី។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Bye for now.",
+    "km": "លាហើយមុននេះ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Catch you later.",
+    "km": "ជួបគ្នាពេលក្រោយហើយ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Have a good weekend.",
+    "km": "សូមឲ្យមានចុងសប្តាហ៍ល្អ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Safe travels.",
+    "km": "ដំណើរល្អសុវត្ថិភាព។",
+    "category": "Farewells"
+  },
+  {
+    "en": "All the best.",
+    "km": "សូមជោគជ័យគ្រប់យ៉ាង។",
+    "category": "Farewells"
+  },
+  {
+    "en": "I’ll talk to you later.",
+    "km": "ខ្ញុំនឹងនិយាយជាមួយអ្នកបន្ទាប់។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Have a great day.",
+    "km": "សូមឲ្យមានថ្ងៃល្អបំផុត។",
+    "category": "Farewells"
+  },
+
+
+  {
+    "en": "I’m leaving now.",
+    "km": "ខ្ញុំចេញទៅឥឡូវនេះ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Have a safe trip.",
+    "km": "សូមមានដំណើរដំណាលសុវត្ថិភាព។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Take it easy.",
+    "km": "សូមសម្រាកបន្តិច។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Good luck!",
+    "km": "សំណាងល្អ!",
+    "category": "Farewells"
+  },
+  {
+    "en": "See you next time.",
+    "km": "ជួបគ្នាលើកក្រោយ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "I have to leave now.",
+    "km": "ខ្ញុំត្រូវចាកចេញឥឡូវនេះ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "It was nice meeting you.",
+    "km": "រីករាយណាស់ដែលបានជួបអ្នក។",
+    "category": "Farewells"
+  },
+  {
+    "en": "See you around.",
+    "km": "ជួបគ្នាថ្ងៃក្រោយ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Take care of yourself.",
+    "km": "រក្សាសុខភាពខ្លួនឯង។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Have a pleasant day.",
+    "km": "សូមឲ្យមានថ្ងៃសប្បាយ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Goodbye for now.",
+    "km": "លាហើយសម្រាប់ពេលនេះ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "I hope to see you again.",
+    "km": "ខ្ញុំសង្ឃឹមថានឹងបានជួបអ្នកម្ដងទៀត។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Have a wonderful day.",
+    "km": "សូមឲ្យមានថ្ងៃល្អឥតខ្ចោះ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Take care and goodbye.",
+    "km": "រក្សាសុខភាព និងលាហើយ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "I’ll see you soon.",
+    "km": "ខ្ញុំនឹងជួបអ្នកឆាប់ៗនេះ។",
+    "category": "Farewells"
+  },
+
+
+  {
+    "en": "I must go now.",
+    "km": "ខ្ញុំត្រូវទៅឥឡូវនេះ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "I’ll be back soon.",
+    "km": "ខ្ញុំនឹងត្រលប់មកវិញឆាប់ៗនេះ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "It’s time to say goodbye.",
+    "km": "ពេលវេលានៃការលាដំណាច់។",
+    "category": "Farewells"
+  },
+  {
+    "en": "I hope you have a good day.",
+    "km": "ខ្ញុំសង្ឃឹមថាអ្នកមានថ្ងៃល្អ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "See you later alligator.",
+    "km": "ជួបគ្នាថ្ងៃក្រោយ ម្នាស់ទឹក។",
+    "category": "Farewells"
+  },
+  {
+    "en": "After a while, crocodile.",
+    "km": "បន្ទាប់ពីពេលមួយ មនាសទឹក។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Goodbye, take care.",
+    "km": "លាហើយ រក្សាសុខភាពល្អ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Have a safe journey.",
+    "km": "សូមមានដំណើរដំណាលសុវត្ថិភាព។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Talk to you soon.",
+    "km": "និយាយជាមួយអ្នកឆាប់ៗនេះ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Goodbye, see you next time.",
+    "km": "លាហើយ ជួបគ្នាលើកក្រោយ។",
+    "category": "Farewells"
+  },
+
+
+  {
+    "en": "See you next week.",
+    "km": "ជួបគ្នាសប្តាហ៍ក្រោយ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "I’m off now.",
+    "km": "ខ្ញុំទៅហើយ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "See you on Monday.",
+    "km": "ជួបគ្នា​ថ្ងៃច័ន្ទ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Goodbye, my friend.",
+    "km": "លាហើយ មិត្តរបស់ខ្ញុំ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Stay safe.",
+    "km": "រក្សាសុវត្ថិភាព។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Farewell.",
+    "km": "លាដំណាច់។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Until we meet again.",
+    "km": "រហូតដល់ពេលយើងជួបគ្នាម្ដងទៀត។",
+    "category": "Farewells"
+  },
+  {
+    "en": "I have to say goodbye now.",
+    "km": "ខ្ញុំត្រូវលាហើយឥឡូវនេះ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "See you at the party.",
+    "km": "ជួបគ្នានៅភ្លេងសង្គម។",
+    "category": "Farewells"
+  },
+  {
+    "en": "It was great seeing you.",
+    "km": "រីករាយណាស់ដែលបានជួបអ្នក។",
+    "category": "Farewells"
+  },
+
+
+  {
+    "en": "Goodbye, see you soon.",
+    "km": "លាហើយ ជួបគ្នាឆាប់ៗនេះ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Take care until next time.",
+    "km": "រក្សាសុខភាពរហូតដល់ពេលក្រោយ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "I’ll catch up with you later.",
+    "km": "ខ្ញុំនឹងតាមដានអ្នកបន្ទាប់។",
+    "category": "Farewells"
+  },
+  {
+    "en": "I must leave now.",
+    "km": "ខ្ញុំត្រូវចាកចេញឥឡូវនេះ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "I look forward to seeing you again.",
+    "km": "ខ្ញុំរង់ចាំបានជួបអ្នកម្ដងទៀត។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Stay well.",
+    "km": "រក្សាសុខភាពល្អ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "I have to go now, goodbye.",
+    "km": "ខ្ញុំត្រូវទៅឥឡូវនេះ លាហើយ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "See you at work.",
+    "km": "ជួបគ្នានៅកន្លែងធ្វើការ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "Goodbye and have a great day.",
+    "km": "លាហើយ សូមឲ្យមានថ្ងៃល្អ។",
+    "category": "Farewells"
+  },
+  {
+    "en": "It was nice talking to you.",
+    "km": "រីករាយណាស់ដែលបាននិយាយជាមួយអ្នក។",
+    "category": "Farewells"
+  },
+
+
+  {
+    "en": "What is your name?",
+    "km": "តើអ្នកឈ្មោះអ្វី?",
+    "category": "Questions"
+  },
+  {
+    "en": "Where do you live?",
+    "km": "តើអ្នករស់នៅឯណា?",
+    "category": "Questions"
+  },
+  {
+    "en": "How old are you?",
+    "km": "តើអ្នកអាយុប៉ុន្មាន?",
+    "category": "Questions"
+  },
+  {
+    "en": "What do you do?",
+    "km": "តើអ្នកធ្វើអ្វី?",
+    "category": "Questions"
+  },
+  {
+    "en": "Where are you from?",
+    "km": "តើអ្នកមកពីណា?",
+    "category": "Questions"
+  },
+  {
+    "en": "Do you speak English?",
+    "km": "តើអ្នកនិយាយភាសាអង់គ្លេសទេ?",
+    "category": "Questions"
+  },
+  {
+    "en": "Can you help me?",
+    "km": "តើអ្នកអាចជួយខ្ញុំបានទេ?",
+    "category": "Questions"
+  },
+  {
+    "en": "What time is it?",
+    "km": "ម៉ោងប៉ុន្មានហើយ?",
+    "category": "Questions"
+  },
+  {
+    "en": "Where is the bathroom?",
+    "km": "បង្គន់នៅឯណា?",
+    "category": "Questions"
+  },
+  {
+    "en": "How much does this cost?",
+    "km": "តើអ្វីនេះមានតម្លៃប៉ុន្មាន?",
+    "category": "Questions"
+  },
+  {
+    "en": "Are you hungry?",
+    "km": "តើអ្នកឃ្លានទេ?",
+    "category": "Questions"
+  },
+  {
+    "en": "Do you like coffee?",
+    "km": "តើអ្នកចូលចិត្តកាហ្វេទេ?",
+    "category": "Questions"
+  },
+  {
+    "en": "What is your favorite color?",
+    "km": "តើពណ៌ដែលអ្នកចូលចិត្តគឺអ្វី?",
+    "category": "Questions"
+  },
+  {
+    "en": "Where do you work?",
+    "km": "តើអ្នកធ្វើការនៅឯណា?",
+    "category": "Questions"
+  },
+  {
+    "en": "How do you say this in English?",
+    "km": "តើអ្នកនិយាយអ្វីនេះជាភាសាអង់គ្លេសដូចម្តេច?",
+    "category": "Questions"
+  },
+
+
+  {
+    "en": "When is your birthday?",
+    "km": "តើថ្ងៃកំណើតរបស់អ្នកជាថ្ងៃណា?",
+    "category": "Questions"
+  },
+  {
+    "en": "How are you?",
+    "km": "សុខសប្បាយរបស់អ្នកយ៉ាងដូចម្តេច?",
+    "category": "Questions"
+  },
+  {
+    "en": "What do you like to eat?",
+    "km": "តើអ្នកចូលចិត្តបរិច្ឆេទអ្វី?",
+    "category": "Questions"
+  },
+  {
+    "en": "Do you have any pets?",
+    "km": "តើអ្នកមានសត្វចិញ្ចឹមទេ?",
+    "category": "Questions"
+  },
+  {
+    "en": "Can I ask you a question?",
+    "km": "តើខ្ញុំអាចសួរអ្នកបានទេ?",
+    "category": "Questions"
+  },
+  {
+    "en": "What is your phone number?",
+    "km": "តើលេខទូរស័ព្ទរបស់អ្នកជាអ្វី?",
+    "category": "Questions"
+  },
+  {
+    "en": "Where did you go yesterday?",
+    "km": "តើអ្នកបានទៅណាថ្ងៃម្សិលមិញ?",
+    "category": "Questions"
+  },
+  {
+    "en": "Do you like music?",
+    "km": "តើអ្នកចូលចិត្តតន្ត្រីទេ?",
+    "category": "Questions"
+  },
+  {
+    "en": "What is your favorite movie?",
+    "km": "តើខ្សែភាពយន្តដែលអ្នកចូលចិត្តគឺអ្វី?",
+    "category": "Questions"
+  },
+  {
+    "en": "Are you busy now?",
+    "km": "តើអ្នកមែនជាប់សៀវភៅឥឡូវនេះទេ?",
+    "category": "Questions"
+  },
+
+
+  {
+    "en": "Where do you study?",
+    "km": "តើអ្នកសិក្សានៅឯណា?",
+    "category": "Questions"
+  },
+  {
+    "en": "What is your favorite food?",
+    "km": "តើម្ហូបដែលអ្នកចូលចិត្តគឺអ្វី?",
+    "category": "Questions"
+  },
+  {
+    "en": "Do you like to travel?",
+    "km": "តើអ្នកចូលចិត្តធ្វើដំណើរទេ?",
+    "category": "Questions"
+  },
+  {
+    "en": "Can you speak other languages?",
+    "km": "តើអ្នកអាចនិយាយភាសាផ្សេងទៀតបានទេ?",
+    "category": "Questions"
+  },
+  {
+    "en": "What time do you wake up?",
+    "km": "តើអ្នកភ្ញាក់ពីគេងម៉ោងប៉ុន្មាន?",
+    "category": "Questions"
+  },
+  {
+    "en": "Do you like sports?",
+    "km": "តើអ្នកចូលចិត្តកីឡាទេ?",
+    "category": "Questions"
+  },
+  {
+    "en": "What is your hobby?",
+    "km": "តើអ្នកមានចំណង់ចំណូលចិត្តអ្វី?",
+    "category": "Questions"
+  },
+  {
+    "en": "Where is your school?",
+    "km": "តើសាលារបស់អ្នកនៅឯណា?",
+    "category": "Questions"
+  },
+  {
+    "en": "Are you a student?",
+    "km": "តើអ្នកជានិស្សិតទេ?",
+    "category": "Questions"
+  },
+  {
+    "en": "Can you help me with this?",
+    "km": "តើអ្នកអាចជួយខ្ញុំជាមួយនេះបានទេ?",
+    "category": "Questions"
+  },
+
+
+  {
+    "en": "What is your favorite book?",
+    "km": "តើសៀវភៅដែលអ្នកចូលចិត្តគឺអ្វី?",
+    "category": "Questions"
+  },
+  {
+    "en": "Do you have brothers or sisters?",
+    "km": "តើអ្នកមានបងប្អូនទេ?",
+    "category": "Questions"
+  },
+  {
+    "en": "What is the weather like today?",
+    "km": "អាកាសធាតុថ្ងៃនេះដូចម្តេច?",
+    "category": "Questions"
+  },
+  {
+    "en": "Where do you want to go?",
+    "km": "តើអ្នកចង់ទៅណា?",
+    "category": "Questions"
+  },
+  {
+    "en": "How do you get to school?",
+    "km": "តើអ្នកធ្វើដំណើរទៅសាលាយ៉ាងដូចម្តេច?",
+    "category": "Questions"
+  },
+  {
+    "en": "What do you want to learn?",
+    "km": "តើអ្នកចង់រៀនអ្វី?",
+    "category": "Questions"
+  },
+  {
+    "en": "Are you feeling okay?",
+    "km": "តើអ្នកមានអារម្មណ៍សុខសប្បាយទេ?",
+    "category": "Questions"
+  },
+  {
+    "en": "What is your favorite sport?",
+    "km": "តើកីឡាដែលអ្នកចូលចិត្តគឺអ្វី?",
+    "category": "Questions"
+  },
+  {
+    "en": "Do you want some water?",
+    "km": "តើអ្នកចង់ផឹកទឹកទេ?",
+    "category": "Questions"
+  },
+  {
+    "en": "Can you come here?",
+    "km": "តើអ្នកអាចមកទីនេះបានទេ?",
+    "category": "Questions"
+  },
+
+
+  {
+    "en": "What do you do on weekends?",
+    "km": "តើអ្នកធ្វើអ្វីនៅចុងសប្តាហ៍?",
+    "category": "Questions"
+  },
+  {
+    "en": "Where is the nearest hospital?",
+    "km": "មន្ទីរពេទ្យជិត‌ترینនៅឯណា?",
+    "category": "Questions"
+  },
+  {
+    "en": "How do you feel today?",
+    "km": "តើអ្នកមានអារម្មណ៍យ៉ាងដូចម្តេចថ្ងៃនេះ?",
+    "category": "Questions"
+  },
+  {
+    "en": "What is your favorite song?",
+    "km": "តើចម្រៀងដែលអ្នកចូលចិត្តគឺអ្វី?",
+    "category": "Questions"
+  },
+  {
+    "en": "Do you like to cook?",
+    "km": "តើអ្នកចូលចិត្តចម្អិនម្ហូបទេ?",
+    "category": "Questions"
+  },
+  {
+    "en": "What time do you go to bed?",
+    "km": "តើអ្នកទៅគេងម៉ោងប៉ុន្មាន?",
+    "category": "Questions"
+  },
+  {
+    "en": "Can you show me?",
+    "km": "តើអ្នកអាចបង្ហាញខ្ញុំបានទេ?",
+    "category": "Questions"
+  },
+  {
+    "en": "Where can I buy this?",
+    "km": "ខ្ញុំអាចទិញនេះនៅឯណា?",
+    "category": "Questions"
+  },
+  {
+    "en": "Who is your teacher?",
+    "km": "តើអ្នកគ្រូរបស់អ្នកជាអ្នកណា?",
+    "category": "Questions"
+  },
+  {
+    "en": "What is this?",
+    "km": "តើនេះជាអ្វី?",
+    "category": "Questions"
+  },
+
+
+  {
+    "en": "How much is this?",
+    "km": "តើនេះមានតម្លៃប៉ុន្មាន?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Where can I buy fruits?",
+    "km": "ខ្ញុំអាចទិញផ្លែផ្កាណៅឯណា?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Do you have this in a different color?",
+    "km": "តើអ្នកមានពណ៌ផ្សេងសម្រាប់នេះទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Can I try it on?",
+    "km": "ខ្ញុំអាចសាកល្បងពាក់វាបានទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Where is the cashier?",
+    "km": "តំណាងបង់ប្រាក់នៅឯណា?",
+    "category": "Shopping"
+  },
+  {
+    "en": "I want to buy this.",
+    "km": "ខ្ញុំចង់ទិញនេះ។",
+    "category": "Shopping"
+  },
+  {
+    "en": "Do you accept credit cards?",
+    "km": "តើអ្នកទទួលកាតឥណទានទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Can you give me a discount?",
+    "km": "តើអ្នកអាចផ្តល់ការបញ្ចុះតម្លៃបានទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Is this item on sale?",
+    "km": "តើទំនិញនេះកំពុងមានលក់បញ្ចុះតម្លៃទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Where can I find the vegetables?",
+    "km": "ខ្ញុំអាចរកបន្លែបាននៅឯណា?",
+    "category": "Shopping"
+  },
+
+
+  {
+    "en": "Can I pay by cash?",
+    "km": "ខ្ញុំអាចបង់ប្រាក់ជាដុល្លារថ្មីបានទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Do you have a bigger size?",
+    "km": "តើអ្នកមានទំហំធំជាងនេះទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Where is the fitting room?",
+    "km": "បន្ទប់សាកសម្រាប់សម្លៀកបំពាក់នៅឯណា?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Can I return this if it is broken?",
+    "km": "តើខ្ញុំអាចយកវាត្រឡប់បើវាខូចទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Do you have any promotions today?",
+    "km": "តើថ្ងៃនេះមានការផ្សព្វផ្សាយពិសេសទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Can you wrap this for me?",
+    "km": "តើអ្នកអាចដាក់វាទុកជាអំណោយបានទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Is there a warranty?",
+    "km": "តើមានការធានាទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "How long does delivery take?",
+    "km": "ការដឹកជញ្ជូនចំណាយពេលប៉ុន្មាន?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Can I get a receipt, please?",
+    "km": "ខ្ញុំអាចទទួលបានវិក្កយបត្របានទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Where can I find electronics?",
+    "km": "ខ្ញុំអាចរកឧបករណ៍អេឡិចត្រូនិចនៅឯណា?",
+    "category": "Shopping"
+  },
+
+
+  {
+    "en": "Do you offer free shipping?",
+    "km": "តើអ្នកផ្តល់សេវាដឹកជញ្ជូនឥតគិតថ្លៃទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Can I exchange this for another item?",
+    "km": "តើខ្ញុំអាចប្តូរទំនិញនេះជាមួយមួយផ្សេងទៀតបានទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Is this product new?",
+    "km": "តើផលិតផលនេះជាផលិតផលថ្មីទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Can you help me find this?",
+    "km": "តើអ្នកអាចជួយខ្ញុំរកនេះបានទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "What payment methods do you accept?",
+    "km": "តើអ្នកទទួលវិធីបង់ប្រាក់អ្វីខ្លះ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Where is the customer service desk?",
+    "km": "តំណាងបម្រើអតិថិជននៅឯណា?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Can I get a refund?",
+    "km": "តើខ្ញុំអាចទទួលប្រាក់ត្រឡប់វិញបានទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Is this the latest model?",
+    "km": "តើនេះជាម៉ូដែលថ្មីបំផុតទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Do you have this in stock?",
+    "km": "តើអ្នកមានទំនិញនេះនៅក្នុងឃ្លាំងទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Can I get a gift receipt?",
+    "km": "ខ្ញុំអាចទទួលវិក្កយបត្រដែលមិនបង្ហាញតម្លៃបានទេ?",
+    "category": "Shopping"
+  },
+
+
+  {
+    "en": "Where can I find the sale items?",
+    "km": "ខ្ញុំអាចរកទំនិញលក់បញ្ចុះតម្លៃបាននៅឯណា?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Do you have gift cards?",
+    "km": "តើអ្នកមានកាតអំណោយទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Can I get a bag, please?",
+    "km": "ខ្ញុំអាចទទួលបានថង់មួយបានទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Is there a return policy?",
+    "km": "តើមានគោលការណ៍សងប្រាក់វិញទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "How do I apply for a membership?",
+    "km": "តើខ្ញុំត្រូវធ្វើដូចម្តេចដើម្បីចុះឈ្មោះជាសមាជិក?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Can I get a price check?",
+    "km": "តើខ្ញុំអាចត្រួតពិនិត្យតម្លៃបានទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Are there any special offers today?",
+    "km": "តើថ្ងៃនេះមានការផ្តល់ជូនពិសេសអ្វីខ្លះទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Can you deliver to my house?",
+    "km": "តើអ្នកអាចដឹកជញ្ជូនទៅផ្ទះខ្ញុំបានទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "What is the warranty period?",
+    "km": "រយៈពេលធានាគឺប៉ុន្មាន?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Can I use a coupon?",
+    "km": "តើខ្ញុំអាចប្រើកូប៉ុងបានទេ?",
+    "category": "Shopping"
+  },
+
+
+  {
+    "en": "Where can I find fresh meat?",
+    "km": "ខ្ញុំអាចរកសាច់ស្រស់បាននៅឯណា?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Do you have organic vegetables?",
+    "km": "តើអ្នកមានបន្លែអុរហ្គានិកទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Is this product eco-friendly?",
+    "km": "តើផលិតផលនេះគាំទ្របរិស្ថានទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Can I see the ingredients?",
+    "km": "តើខ្ញុំអាចមើលគ្រឿងផ្សំបានទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "How much is the delivery fee?",
+    "km": "តើថ្លៃដឹកជញ្ជូនមានតម្លៃប៉ុន្មាន?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Can I schedule a delivery?",
+    "km": "តើខ្ញុំអាចកំណត់ពេលដឹកជញ្ជូនបានទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Do you offer gift wrapping?",
+    "km": "តើអ្នកផ្តល់សេវាការវេចខ្ចប់អំណោយទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Are these products on discount?",
+    "km": "តើទំនិញទាំងនេះមានការបញ្ចុះតម្លៃទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "Can I add items to my order?",
+    "km": "តើខ្ញុំអាចបន្ថែមទំនិញទៅក្នុងការកុម្មង់បានទេ?",
+    "category": "Shopping"
+  },
+  {
+    "en": "What is your return policy?",
+    "km": "តើគោលការណ៍សងទំនិញរបស់អ្នកជាអ្វី?",
+    "category": "Shopping"
+  },
+
+
+  {
+    "en": "I like to eat rice.",
+    "km": "ខ្ញុំចូលចិត្តបរិភោគអង្ករ។",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Do you want some water?",
+    "km": "តើអ្នកចង់ផឹកទឹកទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "What is your favorite food?",
+    "km": "តើម្ហូបដែលអ្នកចូលចិត្តគឺអ្វី?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "I am hungry.",
+    "km": "ខ្ញុំឃ្លាន។",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Can I have some juice?",
+    "km": "ខ្ញុំអាចបានទឹកផ្លែឈើមួយចានបានទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Where is the restaurant?",
+    "km": "ភោជនីយដ្ឋាននៅឯណា?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "I don’t like spicy food.",
+    "km": "ខ្ញុំមិនចូលចិត្តម្ហូបខ្ទិះទេ។",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Do you want tea or coffee?",
+    "km": "តើអ្នកចង់ផឹកតែឬកាហ្វេទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "I am thirsty.",
+    "km": "ខ្ញុំកំពុងឃ្លានទឹក។",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Can you recommend a dish?",
+    "km": "តើអ្នកអាចផ្តល់អនុសាសន៍ម្ហូបមួយបានទេ?",
+    "category": "Food and Drinks"
+  },
+
+
+  {
+    "en": "Where can I buy fresh vegetables?",
+    "km": "ខ្ញុំអាចទិញបន្លែស្រស់នៅឯណា?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "I want a cup of coffee.",
+    "km": "ខ្ញុំចង់បានកាហ្វេមួយកំពង់។",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Is this dish vegetarian?",
+    "km": "តើម្ហូបនេះជាអាហារដែលមិនមានសាច់ទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Can I have some water, please?",
+    "km": "ខ្ញុំអាចបានទឹកមួយចានបានទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "How spicy is this food?",
+    "km": "ម្ហូបនេះខ្ទិះប៉ុណ្ណា?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Do you sell fresh fruit?",
+    "km": "តើអ្នកលក់ផ្លែផ្លែថ្មីទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "I want to eat noodles.",
+    "km": "ខ្ញុំចង់បរិភោគមី។",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Can you make it less salty?",
+    "km": "តើអ្នកអាចធ្វើឲ្យម្ហូបនេះមិនឆ្ងាញ់ល្ហុងណាស់បានទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Do you have sugar?",
+    "km": "តើអ្នកមានស្ករទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "I like to drink fresh juice.",
+    "km": "ខ្ញុំចូលចិត្តផឹកទឹកផ្លែឈើស្រស់។",
+    "category": "Food and Drinks"
+  },
+
+
+  {
+    "en": "Is the meat fresh?",
+    "km": "សាច់នេះស្រស់ទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "I want to order a sandwich.",
+    "km": "ខ្ញុំចង់បញ្ជាទិញសាំងវិចមួយ។",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Do you have any desserts?",
+    "km": "តើអ្នកមានបង្អែមទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Can I have some ice?",
+    "km": "ខ្ញុំអាចបានទឹកកកមួយចានបានទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "What drinks do you have?",
+    "km": "តើអ្នកមានភេសជ្ជៈអ្វីខ្លះ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "I want a cup of tea.",
+    "km": "ខ្ញុំចង់បានតែមួយកំពង់។",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Is this dish cold or hot?",
+    "km": "ម្ហូបនេះត្រជាក់ទេឬក្តៅ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Can you make it sweeter?",
+    "km": "តើអ្នកអាចធ្វើឲ្យវាស្អិតជាងនេះបានទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Where can I find snacks?",
+    "km": "ខ្ញុំអាចរកអាហារបន្លំបាននៅឯណា?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "I like spicy food.",
+    "km": "ខ្ញុំចូលចិត្តម្ហូបខ្ទិះ។",
+    "category": "Food and Drinks"
+  },
+
+
+  {
+    "en": "Can I have a menu, please?",
+    "km": "ខ្ញុំអាចបានមីនុយមួយបានទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Do you have vegetarian options?",
+    "km": "តើអ្នកមានជម្រើសសម្រាប់បន្លែបរិច្ឆេទទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Is service included?",
+    "km": "តើមានការរាប់បញ្ចូលសេវាកម្មទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Can I have the bill, please?",
+    "km": "ខ្ញុំអាចបានវិក្កយបត្រមួយបានទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Is this dish gluten-free?",
+    "km": "ម្ហូបនេះមិនមានក្លុយតែនទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Do you have fresh bread?",
+    "km": "តើអ្នកមាននំបុ័ងស្រស់ទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Can I have a glass of milk?",
+    "km": "ខ្ញុំអាចបានកែវទឹកដោះគោមួយបានទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Is this coffee hot or cold?",
+    "km": "កាហ្វេនេះក្តៅឬត្រជាក់?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "How much does this meal cost?",
+    "km": "ម្ហូបនេះមានតម្លៃប៉ុន្មាន?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "I like sweet drinks.",
+    "km": "ខ្ញុំចូលចិត្តភេសជ្ជៈផ្អែម។",
+    "category": "Food and Drinks"
+  },
+
+
+  {
+    "en": "Can I have a bottle of water?",
+    "km": "ខ្ញុំអាចបានដបទឹកមួយដបបានទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Do you have any cold drinks?",
+    "km": "តើអ្នកមានភេសជ្ជៈត្រជាក់ទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "What is the special today?",
+    "km": "តើមានម្ហូបពិសេសអ្វីនៅថ្ងៃនេះ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Is the soup hot?",
+    "km": "ស៊ុបនេះក្តៅទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Can I have a sandwich without onions?",
+    "km": "ខ្ញុំអាចបានសាំងវិចដែលគ្មានខ្ទឹមបារាំងទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Do you serve breakfast?",
+    "km": "តើអ្នកផ្តល់សេវារហូតដល់ព្រឹកទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Is there sugar in this drink?",
+    "km": "ភេសជ្ជៈនេះមានស្ករទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "I want to eat some fruit.",
+    "km": "ខ្ញុំចង់បរិភោគផ្លែឈើមួយចាន។",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Can you make the food less spicy?",
+    "km": "តើអ្នកអាចធ្វើឲ្យម្ហូបនេះខ្ទិះតិចជាងនេះបានទេ?",
+    "category": "Food and Drinks"
+  },
+  {
+    "en": "Do you have vegan food?",
+    "km": "តើអ្នកមានអាហារជាអាហារដែលមិនមានផលិតផលសត្វទេ?",
+    "category": "Food and Drinks"
+  }
+
+]

@@ -1,0 +1,2974 @@
+[
+  {
+    "en": "My name is John Smith.",
+    "km": "ខ្ញុំឈ្មោះ ចន ស្ម៊ីត។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I live in Phnom Penh.",
+    "km": "ខ្ញុំរស់នៅភ្នំពេញ។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I was born in 1990.",
+    "km": "ខ្ញុំកើតនៅឆ្នាំ១៩៩០។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "My phone number is 0123456789.",
+    "km": "លេខទូរស័ព្ទរបស់ខ្ញុំគឺ ០១២៣៤៥៦៧៨៩។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I am married.",
+    "km": "ខ្ញុំបានរៀបការ។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I have two children.",
+    "km": "ខ្ញុំមានកូនពីរនាក់។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I speak Khmer and English.",
+    "km": "ខ្ញុំអាចនិយាយភាសាខ្មែរ និងអង់គ្លេស។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "My address is 123 Main Street.",
+    "km": "អាសយដ្ឋានរបស់ខ្ញុំគឺ ផ្លូវលេខ ១២៣ ផ្លូវមេ។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I work as a teacher.",
+    "km": "ខ្ញុំធ្វើការជាគ្រូបង្រៀន។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I enjoy reading books.",
+    "km": "ខ្ញុំស្រឡាញ់ការអានសៀវភៅ។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I am 30 years old.",
+    "km": "ខ្ញុំអាយុ ៣០ ឆ្នាំ។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "My email address is john@example.com.",
+    "km": "អាសយដ្ឋានអ៊ីមែលរបស់ខ្ញុំគឺ john@example.com។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I live with my family.",
+    "km": "ខ្ញុំរស់នៅជាមួយគ្រួសារ។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I have a younger sister.",
+    "km": "ខ្ញុំមានប្អូនស្រីមួយនាក់។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "My hobbies are playing football and cooking.",
+    "km": "ការកំសាន្តរបស់ខ្ញុំគឺលេងបាល់ទាត់ និងចម្អិនម្ហូប។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I am from Cambodia.",
+    "km": "ខ្ញុំមកពីប្រទេសកម្ពុជា។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I like to travel.",
+    "km": "ខ្ញុំចូលចិត្តធ្វើដំណើរ។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I work in a company.",
+    "km": "ខ្ញុំធ្វើការនៅក្រុមហ៊ុនមួយ។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I have a pet dog.",
+    "km": "ខ្ញុំមានឆ្កែចិញ្ចឹមមួយ។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I like listening to music.",
+    "km": "ខ្ញុំចូលចិត្តស្ដាប់តន្រ្តី។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I am interested in learning new languages.",
+    "km": "ខ្ញុំចាប់អារម្មណ៍ក្នុងការរៀនភាសាថ្មី។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "My favorite color is blue.",
+    "km": "ពណ៌ដែលខ្ញុំចូលចិត្តបំផុតគឺពណ៌ខៀវ។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I usually wake up at 7 a.m.",
+    "km": "ខ្ញុំភាគច្រើនភ្ញាក់ម៉ោង ៧ ព្រឹក។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I have visited several countries.",
+    "km": "ខ្ញុំបានទៅប្រទេសជាច្រើន។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I enjoy watching movies.",
+    "km": "ខ្ញុំចូលចិត្តមើលភាពយន្ត។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I like to exercise regularly.",
+    "km": "ខ្ញុំចូលចិត្តហាត់ប្រាណជានិច្ច។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I have a small garden at home.",
+    "km": "ខ្ញុំមានសួនតូចមួយនៅផ្ទះ។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "My favorite food is pizza.",
+    "km": "ម្ហូបដែលខ្ញុំចូលចិត្តបំផុតគឺប៊ីហ្សា។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I am learning to play the guitar.",
+    "km": "ខ្ញុំកំពុងរៀនលេងហ្គីតា។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I like spending time with my friends.",
+    "km": "ខ្ញុំចូលចិត្តចំណាយពេលជាមួយមិត្តភក្តិរបស់ខ្ញុំ។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I have lived here for five years.",
+    "km": "ខ្ញុំបានរស់នៅទីនេះរយៈពេលប្រាំឆ្នាំ។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "My favorite sport is basketball.",
+    "km": "កីឡាដែលខ្ញុំចូលចិត្តបំផុតគឺបាល់បោះ។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I enjoy cooking traditional dishes.",
+    "km": "ខ្ញុំចូលចិត្តចម្អិនម្ហូបបែបប្រពៃណី។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I usually go to bed at 10 p.m.",
+    "km": "ខ្ញុំភាគច្រើនគេងម៉ោង១០យប់។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I have a degree in engineering.",
+    "km": "ខ្ញុំបានសិក្សានៅវិទ្យាស្ថានវិស្វកម្ម។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I am learning English to improve my career.",
+    "km": "ខ្ញុំកំពុងរៀនភាសាអង់គ្លេសដើម្បីបង្កើនអាជីពរបស់ខ្ញុំ។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I enjoy spending time outdoors.",
+    "km": "ខ្ញុំចូលចិត្តចំណាយពេលនៅខាងក្រៅ។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "My favorite music genre is pop.",
+    "km": "ប្រភេទតន្រ្តីដែលខ្ញុំចូលចិត្តគឺប៉ុប។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I have two brothers and one sister.",
+    "km": "ខ្ញុំមានបងប្អូនប្រុសពីរនាក់ និងប្អូនស្រីមួយនាក់។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I like to learn about different cultures.",
+    "km": "ខ្ញុំចូលចិត្តរៀនអំពីវប្បធម៌ផ្សេងៗ។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I am currently looking for a new job.",
+    "km": "ខ្ញុំកំពុងស្វែងរកការងារថ្មី។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I prefer to live in the city.",
+    "km": "ខ្ញុំចូលចិត្តរស់នៅក្នុងទីក្រុង។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I often visit my grandparents on weekends.",
+    "km": "ខ្ញុំភាគច្រើនទៅលេងជាមួយតាតាពីល្ងាចថ្ងៃសៅរ៍និងអាទិត្យ។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I enjoy learning new skills.",
+    "km": "ខ្ញុំចូលចិត្តរៀនជំនាញថ្មីៗ។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "My favorite holiday is New Year's Day.",
+    "km": "ថ្ងៃឈប់សម្រាកដែលខ្ញុំចូលចិត្តបំផុតគឺថ្ងៃចូលឆ្នាំថ្មី។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I have a passion for photography.",
+    "km": "ខ្ញុំមានចំណង់ចំណូលចិត្តក្នុងការថតរូប។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I enjoy volunteering in my community.",
+    "km": "ខ្ញុំចូលចិត្តចូលរួមស្ម័គ្រចិត្តក្នុងសហគមន៍របស់ខ្ញុំ។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I like to read newspapers every morning.",
+    "km": "ខ្ញុំចូលចិត្តអានកាសែតរៀងរាល់ព្រឹក។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I am learning to cook international dishes.",
+    "km": "ខ្ញុំកំពុងរៀនចម្អិនម្ហូបអន្តរជាតិ។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I have a small collection of books.",
+    "km": "ខ្ញុំមានសៀវភៅប្រមាណតិចតួច។",
+    "category": "Personal Information"
+  },
+  {
+    "en": "I work as a teacher.",
+    "km": "ខ្ញុំធ្វើការជាគ្រូបង្រៀន។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "She is a doctor.",
+    "km": "នាងជាគ្រូពេទ្យ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "He works in an office.",
+    "km": "គាត់ធ្វើការនៅក្នុងកាស៊ីណូ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "They are engineers.",
+    "km": "ពួកគេជាវិស្វករ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "I have a meeting at 9 a.m.",
+    "km": "ខ្ញុំមានកិច្ចប្រជុំម៉ោង ៩ ព្រឹក។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "My job is very interesting.",
+    "km": "ការងាររបស់ខ្ញុំគឺគួរឱ្យចាប់អារម្មណ៍ខ្លាំង។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "I need to finish my report today.",
+    "km": "ខ្ញុំត្រូវបញ្ចប់របាយការណ៍របស់ខ្ញុំថ្ងៃនេះ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "She works as a nurse in the hospital.",
+    "km": "នាងធ្វើការជាបុគ្គលិកសុខាភិបាលនៅមន្ទីរពេទ្យ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "I start work at 8 a.m.",
+    "km": "ខ្ញុំចាប់ផ្តើមធ្វើការតាំងពីម៉ោង ៨ ព្រឹក។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "He is looking for a new job.",
+    "km": "គាត់កំពុងស្វែងរកការងារថ្មី។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "I work from Monday to Friday.",
+    "km": "ខ្ញុំធ្វើការពីថ្ងៃច័ន្ទដល់ថ្ងៃសុក្រ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "She has many responsibilities at work.",
+    "km": "នាងមានកាតព្វកិច្ចជាច្រើនក្នុងការងារ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "He works as a driver.",
+    "km": "គាត់ធ្វើការជាស៊ែររថយន្ត។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "They have a big company.",
+    "km": "ពួកគេចាប់ផ្តើមក្រុមហ៊ុនធំនេះ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "I enjoy my job.",
+    "km": "ខ្ញុំសប្បាយចិត្តក្នុងការងាររបស់ខ្ញុំ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "She works in a bank.",
+    "km": "នាងធ្វើការនៅធនាគារ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "I am an engineer.",
+    "km": "ខ្ញុំជាវិស្វករ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "He needs to attend a conference.",
+    "km": "គាត់ត្រូវចូលរួមកិច្ចសន្និបាតមួយ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "We have a team meeting every week.",
+    "km": "ពួកយើងមានកិច្ចប្រជុំក្រុមរៀងរាល់សប្តាហ៍។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "She works part-time.",
+    "km": "នាងធ្វើការផ្នែកពេលវេលា។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "I have worked here for three years.",
+    "km": "ខ្ញុំបានធ្វើការនៅទីនេះរយៈពេលបីឆ្នាំ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "He is very good at his job.",
+    "km": "គាត់ល្អណាស់ក្នុងការងាររបស់គាត់។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "She enjoys working with children.",
+    "km": "នាងចូលចិត្តធ្វើការជាមួយកុមារ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "I have many colleagues at work.",
+    "km": "ខ្ញុំមានមិត្តរួមការងារច្រើន។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "The office opens at 9 a.m.",
+    "km": "ការិយាល័យបើកម៉ោង ៩ ព្រឹក។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "She is the manager of the team.",
+    "km": "នាងជាអ្នកគ្រប់គ្រងក្រុម។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "I need to prepare a presentation.",
+    "km": "ខ្ញុំត្រូវត្រៀមរៀបចំការតាំងបង្ហាញ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "He works overtime on Fridays.",
+    "km": "គាត់ធ្វើការលើម៉ោងបន្ថែមនៅថ្ងៃសុក្រ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "We have a lot of projects this year.",
+    "km": "ពួកយើងមានគម្រោងជាច្រើនឆ្នាំនេះ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "She likes to work from home.",
+    "km": "នាងចូលចិត្តធ្វើការពីផ្ទះ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "I usually have lunch at noon.",
+    "km": "ខ្ញុំភាគច្រើនញ៉ាំអាហារថ្ងៃត្រង់ម៉ោង ១២។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "He works as a software developer.",
+    "km": "គាត់ធ្វើការជាអ្នកអភិវឌ្ឍន៍កម្មវិធី។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "She attends training every month.",
+    "km": "នាងចូលរួមបណ្តុះបណ្តាលរៀងរាល់ខែ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "I have a lot of work to do today.",
+    "km": "ខ្ញុំមានការងារច្រើនត្រូវធ្វើថ្ងៃនេះ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "They are hiring new employees.",
+    "km": "ពួកគេកំពុងជ្រើសរើសនិយោជិកថ្មី។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "My office is near the city center.",
+    "km": "ការិយាល័យរបស់ខ្ញុំស្ថិតនៅជិតមជ្ឈមណ្ឌលទីក្រុង។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "He is on a business trip.",
+    "km": "គាត់កំពុងដំណើរការអាជីវកម្មក្រៅទីក្រុង។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "I use a computer at work.",
+    "km": "ខ្ញុំប្រើកុំព្យូទ័រនៅការងារ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "She works in customer service.",
+    "km": "នាងធ្វើការនៅផ្នែកបម្រើអតិថិជន។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "We have a deadline next week.",
+    "km": "ពួកយើងមានកាលកំណត់បញ្ចប់ការងារថ្ងៃក្រោយសប្តាហ៍។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "I received a promotion last month.",
+    "km": "ខ្ញុំបានទទួលការតំណែងលើកលែងខែមុន។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "She enjoys working in a team.",
+    "km": "នាងចូលចិត្តធ្វើការជាក្រុម។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "He is responsible for sales.",
+    "km": "គាត់មានទំនួលខុសត្រូវលក់ទំនិញ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "I need to prepare for the meeting.",
+    "km": "ខ្ញុំត្រូវត្រៀមសម្រាប់កិច្ចប្រជុំ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "They work hard every day.",
+    "km": "ពួកគេធ្វើការយ៉ាងខ្លាំងរៀងរាល់ថ្ងៃ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "My boss is very kind.",
+    "km": "អ្នកគ្រប់គ្រងរបស់ខ្ញុំមានចិត្តសប្បុរសខ្លាំង។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "She works as a receptionist.",
+    "km": "នាងធ្វើការជាអ្នកទទួលភ្ញៀវ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "I attend work training every week.",
+    "km": "ខ្ញុំចូលរួមបណ្តុះបណ្តាលការងាររៀងរាល់សប្តាហ៍។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "He needs to finish his tasks on time.",
+    "km": "គាត់ត្រូវបញ្ចប់ការងាររបស់គាត់តាមពេលកំណត់។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "We have a good working environment.",
+    "km": "ពួកយើងមានបរិយាកាសការងារល្អ។",
+    "category": "Work and Jobs"
+  },
+  {
+    "en": "I feel sick today.",
+    "km": "ខ្ញុំមានអាការៈឈឺខ្លួនថ្ងៃនេះ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "She goes to the doctor every month.",
+    "km": "នាងទៅពេទ្យរៀងរាល់ខែ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "He has a headache.",
+    "km": "គាត់មានការឈឺក្បាល។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "I need to take medicine.",
+    "km": "ខ្ញុំត្រូវតែញ៉ាំថ្នាំ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "She is feeling better now.",
+    "km": "នាងមានអារម្មណ៍ប្រសើរឡើងហើយ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "He exercises every morning.",
+    "km": "គាត់ហាត់ប្រាណរៀងរាល់ព្រឹក។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "I have a cold.",
+    "km": "ខ្ញុំមានការប៉ះពាល់របស់ការបូមពោះ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "She needs to rest for two days.",
+    "km": "នាងត្រូវការសម្រាករយៈពេលពីរថ្ងៃ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "He is very strong.",
+    "km": "គាត់មានកម្លាំងខ្លាំង។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "I drink water every day.",
+    "km": "ខ្ញុំផឹកទឹករៀងរាល់ថ្ងៃ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "She eats healthy food.",
+    "km": "នាងញ៉ាំអាហារមានអត្ថប្រយោជន៍។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "I have a stomachache.",
+    "km": "ខ្ញុំមានការឈឺពោះ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "He goes for a walk every evening.",
+    "km": "គាត់ចេញដើរលំហែកាយរៀងរាល់ល្ងាច។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "I sleep eight hours every night.",
+    "km": "ខ្ញុំគេងប្រាំបួនម៉ោងរៀងរាល់យប់។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "She is feeling tired.",
+    "km": "នាងមានអារម្មណ៍ឈឺថប់។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "He has a fever.",
+    "km": "គាត់មានកំដៅខ្លួន។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "I need to see a dentist.",
+    "km": "ខ្ញុំត្រូវតែទៅពេទ្យធ្មេញ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "She drinks juice every morning.",
+    "km": "នាងផឹកទឹកផ្លែឈើរៀងរាល់ព្រឹក។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "He wears glasses.",
+    "km": "គាត់ពាក់គ្រឿងមើលភ្នែក។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "I exercise three times a week.",
+    "km": "ខ្ញុំហាត់ប្រាណបីដងក្នុងមួយសប្តាហ៍។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "She is allergic to peanuts.",
+    "km": "នាងមានអាការៈឆ្លងរោគពីពងគោព្រៃ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "I need to drink more water.",
+    "km": "ខ្ញុំត្រូវតែផឹកទឹកច្រើនជាងនេះ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "He feels dizzy.",
+    "km": "គាត់មានអារម្មណ៍រមួតក្បាល។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "She takes vitamins every day.",
+    "km": "នាងញ៉ាំវីតាមីនរៀងរាល់ថ្ងៃ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "I have a sore throat.",
+    "km": "ខ្ញុំមានការឈឺក កម្តៅផ្លូវក។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "He needs to lose weight.",
+    "km": "គាត់ត្រូវការបន្តកន្លះទម្ងន់។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "She goes jogging every morning.",
+    "km": "នាងរត់ហាត់ប្រាណរៀងរាល់ព្រឹក។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "I have a back pain.",
+    "km": "ខ្ញុំមានការឈឺខ្នង។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "He eats fruits every day.",
+    "km": "គាត់ញ៉ាំផ្លែឈើរៀងរាល់ថ្ងៃ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "She visits the hospital once a year.",
+    "km": "នាងទៅមន្ទីរពេទ្យមួយដងក្នុងមួយឆ្នាំ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "I need to rest after exercise.",
+    "km": "ខ្ញុំត្រូវតែសម្រាកបន្ទាប់ពីហាត់ប្រាណ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "She has a healthy lifestyle.",
+    "km": "នាងមានរបៀបរស់នៅមានសុខភាពល្អ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "He drinks coffee every morning.",
+    "km": "គាត់ផឹកកាហ្វេរៀងរាល់ព្រឹក។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "I brush my teeth twice a day.",
+    "km": "ខ្ញុំប្រាប់ធ្មេញពីរដងក្នុងមួយថ្ងៃ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "She feels pain in her leg.",
+    "km": "នាងមានការឈឺនៅជើង។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "He sleeps early every night.",
+    "km": "គាត់គេងមុនម៉ោងរៀងរាល់យប់។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "I have an appointment with the doctor.",
+    "km": "ខ្ញុំមានការណាត់ជួបពេទ្យ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "She wears a mask when sick.",
+    "km": "នាងពាក់ម៉ាស់ពេលឈឺ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "He drinks tea after meals.",
+    "km": "គាត់ផឹកតែបន្ទាប់ពីអាហារ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "I feel tired after work.",
+    "km": "ខ្ញុំមានអារម្មណ៍ឈឺថប់បន្ទាប់ពីការងារ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "She takes care of her health.",
+    "km": "នាងថែរក្សាសុខភាពរបស់នាង។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "I feel cold in the morning.",
+    "km": "ខ្ញុំមានអារម្មណ៍ត្រជាក់នៅព្រឹក។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "He has a strong immune system.",
+    "km": "គាត់មានប្រព័ន្ធភាពធន់ទ្រាំខ្លាំង។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "She exercises at the gym.",
+    "km": "នាងហាត់ប្រាណនៅក្លឹបហាត់ប្រាណ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "I need to lose some weight.",
+    "km": "ខ្ញុំត្រូវតែបន្ថយទម្ងន់ខ្លះ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "He feels better after resting.",
+    "km": "គាត់មានអារម្មណ៍ប្រសើរឡើងបន្ទាប់ពីសម្រាក។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "She takes a shower every day.",
+    "km": "នាងងូតទឹករៀងរាល់ថ្ងៃ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "I have a toothache.",
+    "km": "ខ្ញុំមានការឈឺធ្មេញ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "He avoids eating junk food.",
+    "km": "គាត់ជៀសវាងការញ៉ាំម្ហូបអាក្រក់។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "She feels sleepy in the afternoon.",
+    "km": "នាងមានអារម្មណ៍ងូតស្រក់នៅពេលថ្ងៃមធ្យមថ្ងៃ។",
+    "category": "Health and Body"
+  },
+  {
+    "en": "I want to buy a new phone.",
+    "km": "ខ្ញុំចង់ទិញទូរស័ព្ទថ្មី។",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "How much does this cost?",
+    "km": "នេះមានតម្លៃប៉ុន្មាន?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Can I pay by credit card?",
+    "km": "ខ្ញុំអាចបង់ប្រាក់ដោយកាតឥណទានទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "I need a receipt, please.",
+    "km": "ខ្ញុំត្រូវការបង្កាន់ដៃ។",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Do you have this in a different size?",
+    "km": "តើអ្នកមាននេះទំហំផ្សេងទៀតទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Where is the fitting room?",
+    "km": "បន្ទប់សាកសុទ្ធនៅឯណា?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "I want to return this item.",
+    "km": "ខ្ញុំចង់បង្វិលទំនិញនេះ។",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Is there a warranty for this product?",
+    "km": "តើមានការធានាសម្រាប់ផលិតផលនេះទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Can you deliver it to my house?",
+    "km": "អ្នកអាចដឹកជញ្ជូនទៅផ្ទះខ្ញុំបានទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "I would like to schedule a service appointment.",
+    "km": "ខ្ញុំចង់កំណត់ពេលសម្រាប់សេវាកម្ម។",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Do you offer discounts?",
+    "km": "តើអ្នកផ្តល់ការបញ្ចុះតម្លៃទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Where can I find the electronics section?",
+    "km": "ខ្ញុំអាចរកមើលផ្នែកឧបករណ៍អេឡិចត្រូនិចនៅឯណា?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "I need help with my purchase.",
+    "km": "ខ្ញុំត្រូវការជំនួយក្នុងការជាវរបស់ខ្ញុំ។",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Can I try this on?",
+    "km": "ខ្ញុំអាចសាកល្បងនេះបានទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "What is your return policy?",
+    "km": "គោលការណ៍បង្វិលទំនិញរបស់អ្នកជាអ្វី?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "I want to exchange this for another size.",
+    "km": "ខ្ញុំចង់ប្ដូរទំនិញនេះជាទំហំផ្សេង។",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Is there a service charge?",
+    "km": "តើមានថ្លៃសេវាកម្មទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Can you gift wrap this item?",
+    "km": "អ្នកអាចវេចខ្ចប់ជាអំណោយបានទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "How long is the warranty period?",
+    "km": "រយៈពេលធានាអស់ប៉ុន្មាន?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "I would like to cancel my order.",
+    "km": "ខ្ញុំចង់លុបបញ្ជាទិញរបស់ខ្ញុំ។",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Do you have this item in stock?",
+    "km": "តើអ្នកមានទំនិញនេះនៅក្នុងស្តុកទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Can I get a discount for bulk purchase?",
+    "km": "ខ្ញុំអាចទទួលបានការបញ្ចុះតម្លៃសម្រាប់ការជាវច្រើនទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "What time do you open and close?",
+    "km": "តើអ្នកបើកហើយបិទម៉ោងប៉ុន្មាន?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "I want to schedule a home service.",
+    "km": "ខ្ញុំចង់កំណត់ពេលសេវាកម្មនៅផ្ទះ។",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Is delivery free for orders over $50?",
+    "km": "តើការដឹកជញ្ជូនឥតគិតថ្លៃសម្រាប់ការបញ្ជាទិញលើស $50 ទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Can you repair this item?",
+    "km": "អ្នកអាចជួសជុលទំនិញនេះបានទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "How long will the delivery take?",
+    "km": "ការដឹកជញ្ជូននឹងយកពេលប៉ុន្មាន?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "I would like to pay in cash.",
+    "km": "ខ្ញុំចង់បង់ប្រាក់ជាសាច់ប្រាក់។",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Where can I find customer service?",
+    "km": "ខ្ញុំអាចរកសេវាកម្មអតិថិជននៅឯណា?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Can you help me choose a product?",
+    "km": "អ្នកអាចជួយខ្ញុំជ្រើសរើសផលិតផលបានទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Can I get a refund if I am not satisfied?",
+    "km": "ខ្ញុំអាចទទួលបានប្រាក់ត្រឡប់ប្រសិនបើខ្ញុំមិនពេញចិត្តទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Do you provide installation services?",
+    "km": "តើអ្នកផ្ដល់សេវាកម្មដំឡើងទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Where is the nearest store?",
+    "km": "ហាងនៅជិតទីនេះនៅឯណា?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "I want to subscribe to your newsletter.",
+    "km": "ខ្ញុំចង់ចុះឈ្មោះទទួលព័ត៍មានថ្មីៗ។",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Do you accept online payments?",
+    "km": "តើអ្នកទទួលការបង់ប្រាក់តាមអនឡាញទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Can I schedule a repair appointment?",
+    "km": "ខ្ញុំអាចកំណត់ពេលជួសជុលទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "What are your business hours?",
+    "km": "ម៉ោងធ្វើការរបស់អ្នកជាអ្វីខ្លះ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Do you offer gift cards?",
+    "km": "តើអ្នកផ្ដល់កាតអំណោយទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Can I track my order online?",
+    "km": "ខ្ញុំអាចតាមដានការបញ្ជាទិញតាមអនឡាញបានទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "I want to cancel my service appointment.",
+    "km": "ខ្ញុំចង់លុបការកំណត់ពេលសេវាកម្ម។",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Are there any promotions this week?",
+    "km": "មានការផ្សព្វផ្សាយពិសេសអ្វីខ្លះសប្តាហ៍នេះ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Can I reserve this item for later?",
+    "km": "ខ្ញុំអាចរក្សាទុកទំនិញនេះសម្រាប់ពេលក្រោយបានទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Do you have loyalty programs?",
+    "km": "តើអ្នកមានកម្មវិធីស្ម័គ្រចិត្តអតិថិជនទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "I want to exchange this product for a refund.",
+    "km": "ខ្ញុំចង់ប្ដូរផលិតផលនេះសម្រាប់ប្រាក់ត្រឡប់។",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Can you help me find a gift?",
+    "km": "អ្នកអាចជួយខ្ញុំស្វែងរកអំណោយបានទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Is this item on sale?",
+    "km": "តើទំនិញនេះកំពុងមានការលក់បញ្ចុះតម្លៃទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Where is the customer feedback box?",
+    "km": "ប្រអប់មតិយោបល់អតិថិជននៅឯណា?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Can I get a gift receipt?",
+    "km": "ខ្ញុំអាចទទួលបង្កាន់ដៃអំណោយបានទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Do you provide free samples?",
+    "km": "តើអ្នកផ្ដល់គំរូឥតគិតថ្លៃទេ?",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "I want to know about your return policy.",
+    "km": "ខ្ញុំចង់ដឹងអំពីគោលការណ៍បង្វិលទំនិញរបស់អ្នក។",
+    "category": "Shopping and Services"
+  },
+  {
+    "en": "Where is the bus stop?",
+    "km": "ឯណាជារថយន្តឈប់?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "How much is a ticket to the city?",
+    "km": "សំបុត្រទៅក្រុងមានតម្លៃប៉ុន្មាន?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "What time does the train leave?",
+    "km": "រថភ្លើងចេញម៉ោងប៉ុន្មាន?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Can I buy a ticket online?",
+    "km": "ខ្ញុំអាចទិញសំបុត្រតាមអនឡាញបានទេ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Where is the taxi stand?",
+    "km": "ឯណាជារថយន្តកាប់ស្ដង់?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "How long is the flight?",
+    "km": "ជើងហោះហើរយូរប៉ុន្មានម៉ោង?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Is there a direct bus to the airport?",
+    "km": "មានរថយន្តទៅអាកាសយានដ្ឋានផ្ទាល់ទេ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Where can I rent a car?",
+    "km": "ខ្ញុំអាចជួលឡាននៅឯណា?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "What time does the last bus leave?",
+    "km": "រថយន្តចុងក្រោយចេញម៉ោងប៉ុន្មាន?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Do I need a visa to travel?",
+    "km": "តើខ្ញុំត្រូវការវីសាដើម្បីធ្វើដំណើរទេ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "How do I get to the train station?",
+    "km": "ខ្ញុំត្រូវទៅស្ថានីយ៍រថភ្លើងដូចម្តេច?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Is the bus wheelchair accessible?",
+    "km": "រថយន្តមានទីតាំងសម្រាប់រថភ្លើងកង់ដៃទេ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Can I bring luggage on the bus?",
+    "km": "ខ្ញុំអាចយកខ្នើយនៅលើរថយន្តបានទេ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Where is the information desk?",
+    "km": "តុព័ត៌មាននៅឯណា?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "How much is a taxi ride to the hotel?",
+    "km": "ថ្លៃកាប៊ែតទៅសណ្ឋាគារមានប៉ុន្មាន?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Is there a shuttle service to the airport?",
+    "km": "មានសេវាកម្មឡាន Shuttle ទៅអាកាសយានដ្ឋានទេ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "What is the schedule for the ferry?",
+    "km": "កាលវិភាគសម្រាប់ទូកមានអ្វីខ្លះ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Can I buy a round-trip ticket?",
+    "km": "ខ្ញុំអាចទិញសំបុត្រប្រាក់ត្រឡប់បានទេ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Where can I park my car?",
+    "km": "ខ្ញុំអាចចតឡាននៅឯណា?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Are pets allowed on public transport?",
+    "km": "តើអាចយកសត្វចិញ្ចឹមជាមួយនៅលើការដឹកជញ្ជូនសាធារណៈបានទេ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Is there Wi-Fi on the train?",
+    "km": "តើមាន Wi-Fi លើរថភ្លើងទេ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Where do I collect my boarding pass?",
+    "km": "ខ្ញុំត្រូវចូលប័ណ្ណឡើងយន្តហោះនៅឯណា?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "How early should I arrive at the airport?",
+    "km": "ខ្ញុំគួរមកដល់អាកាសយានដ្ឋានមុនពេលហោះហើរប៉ុន្មាន?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Can I change my flight date?",
+    "km": "ខ្ញុំអាចប្ដូរថ្ងៃហោះហើរបានទេ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Where is the lost and found office?",
+    "km": "ការិយាល័យរកឃើញវត្ថុបាត់បង់នៅឯណា?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "What is the baggage allowance?",
+    "km": "ចំនួនអាចយកខ្នើយជាមួយមានប៉ុន្មាន?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Is there a night bus service?",
+    "km": "មានសេវារថយន្តយប់ទេ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "How do I get a taxi at the airport?",
+    "km": "ខ្ញុំត្រូវធ្វើដូចម្តេចដើម្បីរកកាប៊ែតនៅអាកាសយានដ្ឋាន?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Are there direct flights to Phnom Penh?",
+    "km": "មានជើងហោះហើរផ្ទាល់ទៅភ្នំពេញទេ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Where can I find a map of the city?",
+    "km": "ខ្ញុំអាចរកផែនទីក្រុងនៅឯណា?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Is the parking lot free for customers?",
+    "km": "តើទីតាំងចតឡានឥតគិតថ្លៃសម្រាប់អតិថិជនទេ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Can I get a ticket refund if my flight is canceled?",
+    "km": "ខ្ញុំអាចទទួលប្រាក់ត្រឡប់បានទេ ប្រសិនបើជើងហោះហើររបស់ខ្ញុំត្រូវបានបោះបង់?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Where can I find a taxi near here?",
+    "km": "ខ្ញុំអាចរកកាប៊ែតនៅជិតទីនេះបានឯណា?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Do I need to book tickets in advance?",
+    "km": "ខ្ញុំត្រូវការកក់សំបុត្រមុនទេ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Is there a luggage storage service?",
+    "km": "មានសេវាផ្ទុកខ្នើយទេ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "How do I get a bus schedule?",
+    "km": "ខ្ញុំត្រូវធ្វើដូចម្តេចដើម្បីទទួលបានកាលវិភាគរថយន្ត?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Are pets allowed on flights?",
+    "km": "តើអាចយកសត្វចិញ្ចឹមទៅលើយន្តហោះបានទេ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Where is the taxi queue?",
+    "km": "ជួររថយន្តកាប៊ែតនៅឯណា?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Can I use a travel card for the subway?",
+    "km": "ខ្ញុំអាចប្រើកាតធ្វើដំណើរសម្រាប់រថភ្លើងក្រោមដីបានទេ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Is there a direct train to the airport?",
+    "km": "មានរថភ្លើងផ្ទាល់ទៅអាកាសយានដ្ឋានទេ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "How do I get to the nearest subway station?",
+    "km": "ខ្ញុំត្រូវទៅស្ថានីយ៍រថភ្លើងក្រោមដីជិតបំផុតដូចម្តេច?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Are there any discounts for students?",
+    "km": "តើមានការបញ្ចុះតម្លៃសម្រាប់និស្សិតទេ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "What documents do I need to travel abroad?",
+    "km": "ខ្ញុំត្រូវការឯកសារអ្វីខ្លះដើម្បីធ្វើដំណើរបរទេស?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Is there a shuttle bus from the hotel to the airport?",
+    "km": "មានរថយន្តសេវា Shuttle ពីសណ្ឋាគារទៅអាកាសយានដ្ឋានទេ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Where can I buy travel insurance?",
+    "km": "ខ្ញុំអាចទិញអាការពារ ធានា ដំណើរកំសាន្តនៅឯណា?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Can I use credit cards to buy tickets?",
+    "km": "ខ្ញុំអាចប្រើកាតឥណទានទិញសំបុត្រ​បានទេ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "What is the baggage size limit?",
+    "km": "មានដែនកំណត់ទំហំខ្នើយប៉ុន្មាន?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Are there facilities for disabled travelers?",
+    "km": "មានអគារសម្រាប់អ្នកធ្វើដំណើរដែលមានការពិបាកខ្លួនទេ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "How do I get a taxi at night?",
+    "km": "ខ្ញុំត្រូវធ្វើដូចម្តេចដើម្បីរកកាប៊ែតនៅពេលយប់?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "Is there a lost luggage service?",
+    "km": "មានសេវាសម្រាប់ខ្នើយបាត់បង់ទេ?",
+    "category": "Travel and Transportation"
+  },
+  {
+    "en": "What is the weather like today?",
+    "km": "អាកាសធាតុថ្ងៃនេះជាដូចម្តេច?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "Is it going to rain tomorrow?",
+    "km": "ព្រោះថ្ងៃស្អែកភ្លៀងនឹងធ្លាក់ទេ?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "What season is it now?",
+    "km": "ឥឡូវនេះជារដូវអ្វី?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "How hot is it today?",
+    "km": "ថ្ងៃនេះក្តៅប៉ុណ្ណា?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "Will it be sunny this afternoon?",
+    "km": "ថ្ងៃនេះល្ងាចនឹងមានថ្ងៃហេងទេ?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "Is it cold in the winter?",
+    "km": "រដូវរងាក្តៅតិចទេ?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "Do you like rainy days?",
+    "km": "អ្នកចូលចិត្តថ្ងៃភ្លៀងទេ?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "When does the rainy season start?",
+    "km": "រដូវភ្លៀងចាប់ផ្តើមពេលណា?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "How long is the dry season?",
+    "km": "រដូវស្ងួតមានរយៈពេលប៉ុន្មាន?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "Is it windy today?",
+    "km": "ថ្ងៃនេះមានខ្យល់ខ្លាំងទេ?",
+    "category": "Weather and Seasons"
+  },
+{
+    "en": "What is the temperature today?",
+    "km": "សីតុណ្ហភាពថ្ងៃនេះជាអ្វី?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "Does it snow in this region?",
+    "km": "តើមានព្រិលធ្លាក់នៅតំបន់នេះទេ?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "How humid is it today?",
+    "km": "ថ្ងៃនេះសើមប៉ុណ្ណា?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "Is it foggy in the morning?",
+    "km": "ពេលព្រឹកមានអ័ព្ទទេ?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "What is the forecast for this week?",
+    "km": "ការព្យាករណ៍អាកាសធាតុសម្រាប់សប្តាហ៍នេះជាអ្វី?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "Is it a good day for outdoor activities?",
+    "km": "តើថ្ងៃនេះល្អសម្រាប់សកម្មភាពក្រៅផ្ទះទេ?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "When does the hot season begin?",
+    "km": "រដូវក្តៅចាប់ផ្តើមនៅពេលណា?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "Is it cloudy today?",
+    "km": "ថ្ងៃនេះមានពពកទេ?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "How does the weather affect your mood?",
+    "km": "អាកាសធាតុជះឥទ្ធិពលលើអារម្មណ៍របស់អ្នកយ៉ាងដូចម្តេច?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "What is the best season to visit this place?",
+    "km": "រដូវណាល្អបំផុតសម្រាប់ទស្សនាកន្លែងនេះ?",
+    "category": "Weather and Seasons"
+  },
+ {
+    "en": "What is the chance of rain this evening?",
+    "km": "ល្ងាចនេះមានឱកាសភ្លៀងប៉ុណ្ណា?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "Is it a good time to plant crops?",
+    "km": "តើជាពេលវេលាល្អសម្រាប់ដាំដំណាំទេ?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "How does the weather look this weekend?",
+    "km": "អាកាសធាតុចុងសប្តាហ៍នេះមើលទៅដូចម្តេច?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "Is it too hot to go hiking today?",
+    "km": "ថ្ងៃនេះក្តៅពេកសម្រាប់ដើរលេងភ្នំទេ?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "When does the cool season start?",
+    "km": "រដូវត្រជាក់ចាប់ផ្តើមនៅពេលណា?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "Is it safe to drive in this weather?",
+    "km": "តើបើកបរក្នុងអាកាសធាតុនេះមានសុវត្ថិភាពទេ?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "How does the rainy season affect farming?",
+    "km": "រដូវភ្លៀងជះឥទ្ធិពលលើកសិកម្មយ៉ាងដូចម្តេច?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "Is it usually sunny in the dry season?",
+    "km": "ជាធម្មតាមានថ្ងៃហេងក្នុងរដូវស្ងួតទេ?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "What is the average temperature in summer?",
+    "km": "សីតុណ្ហភាពជាមធ្យមក្នុងរដូវក្តៅជាអ្វី?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "Does the weather change quickly here?",
+    "km": "តើអាកាសធាតុនៅទីនេះផ្លាស់ប្តូរលឿនទេ?",
+    "category": "Weather and Seasons"
+  },
+ {
+    "en": "Is it a good day for a picnic?",
+    "km": "តើថ្ងៃនេះល្អសម្រាប់ញ៉ាំអាហារក្រៅផ្ទះទេ?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "How strong is the wind this afternoon?",
+    "km": "ខ្យល់ខ្លាំងប៉ុណ្ណានៅរសៀលនេះ?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "Does it often rain in the evening here?",
+    "km": "តើនៅទីនេះភ្លៀងញឹកញាប់នៅពេលល្ងាចទេ?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "What is the weather like in the mountains?",
+    "km": "អាកាសធាតុនៅលើភ្នំជាដូចម្តេច?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "Is the dry season good for traveling?",
+    "km": "តើរដូវស្ងួតល្អសម្រាប់ការធ្វើដំណើរទេ?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "How cold does it get in the winter?",
+    "km": "នៅរដូវរងារត្រជាក់ប៉ុណ្ណា?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "Is it a stormy day today?",
+    "km": "តើថ្ងៃនេះជាថ្ងៃមានព្យុះទេ?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "When does the monsoon season end?",
+    "km": "រដូវមូសុងបញ្ចប់នៅពេលណា?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "Is it sunny enough for swimming today?",
+    "km": "តើថ្ងៃនេះមានថ្ងៃហេងគ្រប់គ្រាន់សម្រាប់ហែលទឹកទេ?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "How does the weather affect local festivals?",
+    "km": "អាកាសធាតុជះឥទ្ធិពលលើពិធីបុណ្យក្នុងស្រុកយ៉ាងដូចម្តេច?",
+    "category": "Weather and Seasons"
+  },
+{
+    "en": "Is it a good day for fishing?",
+    "km": "តើថ្ងៃនេះល្អសម្រាប់នេសាទទេ?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "How does the weather affect air quality?",
+    "km": "អាកាសធាតុជះឥទ្ធិពលលើគុណភាពខ្យល់យ៉ាងដូចម្តេច?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "Is it too windy for flying kites?",
+    "km": "តើខ្យល់ខ្លាំងពេកសម្រាប់លេងខ្លែងទេ?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "What is the weather like at the beach today?",
+    "km": "អាកាសធាតុនៅឆ្នេរសមុទ្រថ្ងៃនេះជាដូចម្តេច?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "Does it get very humid in the rainy season?",
+    "km": "តើនៅរដូវភ្លៀងមានសំណើមខ្លាំងទេ?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "Is it a clear night for stargazing?",
+    "km": "តើយប់នេះច្បាស់ល្អសម្រាប់មើលផ្កាយទេ?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "How does the dry season affect water supply?",
+    "km": "រដូវស្ងួតជះឥទ្ធិពលលើការផ្គត់ផ្គង់ទឹកយ៉ាងដូចម្តេច?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "Is it warm enough to wear light clothes today?",
+    "km": "តើថ្ងៃនេះក្តៅគ្រប់គ្រាន់សម្រាប់ស្លៀកសម្លៀកបំពាក់ស្តើងទេ?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "When is the best time to visit during the cool season?",
+    "km": "ពេលណាជាពេលល្អបំផុតសម្រាប់ទស្សនាក្នុងរដូវត្រជាក់?",
+    "category": "Weather and Seasons"
+  },
+  {
+    "en": "Is there a chance of thunderstorms this afternoon?",
+    "km": "តើរសៀលនេះមានឱកាសកើតផ្គររន្ទះទេ?",
+    "category": "Weather and Seasons"
+  },
+
+  {
+    "en": "What is your favorite hobby?",
+    "km": "តើចំណង់ចំណូលចិត្តដែលអ្នកចូលចិត្តបំផុតជាអ្វី?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Do you enjoy playing sports?",
+    "km": "តើអ្នកចូលចិត្តលេងកីឡាទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "How often do you go hiking?",
+    "km": "តើអ្នកទៅដើរលេងភ្នំញឹកញាប់ប៉ុណ្ណា?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "What kind of music do you like to listen to?",
+    "km": "តើអ្នកចូលចិត្តស្តាប់តន្ត្រីប្រភេទណា?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Do you like to read books in your free time?",
+    "km": "តើអ្នកចូលចិត្តអានសៀវភៅនៅពេលទំនេរទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Is gardening a relaxing hobby for you?",
+    "km": "តើការថែសួនជាចំណង់ចំណូលចិត្តដែលធ្វើឱ្យអ្នកសម្រាកទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "How did you learn to play the guitar?",
+    "km": "តើអ្នករៀនលេងហ្គីតាដោយរបៀបណា?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Do you prefer indoor or outdoor activities?",
+    "km": "តើអ្នកចូលចិត្តសកម្មភាពក្នុងផ្ទះ ឬក្រៅផ្ទះ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "What is the best place to go camping around here?",
+    "km": "តើកន្លែងណាល្អបំផុតសម្រាប់ទៅបោះជំរុំនៅជុំវិញនេះ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Do you enjoy watching movies in your spare time?",
+    "km": "តើអ្នកចូលចិត្តមើលកុននៅពេលទំនេរទេ?",
+    "category": "Hobbies and Leisure"
+  },
+
+
+  {
+    "en": "Do you like to paint or draw in your free time?",
+    "km": "តើអ្នកចូលចិត្តគូរគំនូរ ឬសរសេរគំនូរនៅពេលទំនេរទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "What is your favorite sport to watch?",
+    "km": "តើកីឡាអ្វីដែលអ្នកចូលចិត្តមើលបំផុត?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "How often do you go swimming?",
+    "km": "តើអ្នកទៅហែលទឹកញឹកញាប់ប៉ុណ្ណា?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Do you enjoy cooking as a hobby?",
+    "km": "តើអ្នកចូលចិត្តធ្វើម្ហូបជាចំណង់ចំណូលចិត្តទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "What kind of games do you like to play?",
+    "km": "តើអ្នកចូលចិត្តលេងហ្គេមប្រភេទណា?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Is photography one of your hobbies?",
+    "km": "តើការថតរូបជាចំណង់ចំណូលចិត្តមួយរបស់អ្នកទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Do you like to go cycling on weekends?",
+    "km": "តើអ្នកចូលចិត្តជិះកង់នៅចុងសប្តាហ៍ទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "What is the best hobby for relaxing?",
+    "km": "តើចំណង់ចំណូលចិត្តអ្វីល្អបំផុតសម្រាប់សម្រាក?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Have you ever tried dancing as a hobby?",
+    "km": "តើអ្នកធ្លាប់សាកល្បងរាំជាចំណង់ចំណូលចិត្តទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Do you collect anything as a hobby?",
+    "km": "តើអ្នកប្រមូលអ្វីមួយជាចំណង់ចំណូលចិត្តទេ?",
+    "category": "Hobbies and Leisure"
+  },
+
+
+  {
+    "en": "Do you enjoy playing board games with friends?",
+    "km": "តើអ្នកចូលចិត្តលេងហ្គេមក្តារជាមួយមិត្តភក្តិទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "What is your favorite outdoor activity?",
+    "km": "តើសកម្មភាពក្រៅផ្ទះដែលអ្នកចូលចិត្តបំផុតជាអ្វី?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "How often do you go to the gym?",
+    "km": "តើអ្នកទៅហាត់ប្រាណនៅកន្លែងហាត់ប្រាណញឹកញាប់ប៉ុណ្ណា?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Do you like to write stories or poems?",
+    "km": "តើអ្នកចូលចិត្តសរសេររឿង ឬកំណាព្យទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Is fishing a popular hobby in your area?",
+    "km": "តើការនេសាទជាចំណង់ចំណូលចិត្តដ៏ពេញនិយមនៅក្នុងតំបន់របស់អ្នកទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Do you enjoy knitting or crocheting?",
+    "km": "តើអ្នកចូលចិត្តប៉ាក់ ឬបង្វិលអំបោះទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "What is the best place to go jogging around here?",
+    "km": "តើកន្លែងណាល្អបំផុតសម្រាប់រត់ហាត់ប្រាណនៅជុំវិញនេះ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Do you like to watch sports matches on TV?",
+    "km": "តើអ្នកចូលចិត្តមើលការប្រកួតកីឡានៅលើទូរទស្សន៍ទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Have you ever tried yoga as a hobby?",
+    "km": "តើអ្នកធ្លាប់សាកល្បងហាត់យូហ្គាជាចំណង់ចំណូលចិត្តទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "What is your favorite way to spend a weekend?",
+    "km": "តើវិធីដែលអ្នកចូលចិត្តបំផុតសម្រាប់ចំណាយពេលចុងសប្តាហ៍ជាអ្វី?",
+    "category": "Hobbies and Leisure"
+  },
+
+
+  {
+    "en": "Do you enjoy playing video games?",
+    "km": "តើអ្នកចូលចិត្តលេងហ្គេមវីដេអូទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "What is your favorite type of dance?",
+    "km": "តើប្រភេទរបាំណាដែលអ្នកចូលចិត្តបំផុត?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "How often do you go birdwatching?",
+    "km": "តើអ្នកទៅមើលសត្វស្លាបញឹកញាប់ប៉ុណ្ណា?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Do you like to do puzzles in your free time?",
+    "km": "តើអ្នកចូលចិត្តដោះស្រាយល្បែងផ្គុំរូបនៅពេលទំនេរទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Is hiking a popular hobby in your area?",
+    "km": "តើការដើរលេងភ្នំជាចំណង់ចំណូលចិត្តដ៏ពេញនិយមនៅតំបន់របស់អ្នកទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Do you enjoy collecting stamps or coins?",
+    "km": "តើអ្នកចូលចិត្តប្រមូលតែមប្រៃសណីយ៍ ឬកាក់ទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "What is the best place for a leisurely walk nearby?",
+    "km": "តើកន្លែងណាល្អបំផុតសម្រាប់ដើរលេងយ៉ាងសប្បាយជុំវិញនេះ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Do you like to attend live music concerts?",
+    "km": "តើអ្នកចូលចិត្តចូលរួមការប្រគុំតន្ត្រីផ្ទាល់ទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Have you ever tried pottery as a hobby?",
+    "km": "តើអ្នកធ្លាប់សាកល្បងធ្វើសម្ភារៈស្មូនជាចំណង់ចំណូលចិត្តទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "What is your favorite way to stay active?",
+    "km": "តើវិធីណាដែលអ្នកចូលចិត្តបំផុតដើម្បីរក្សាភាពសកម្ម?",
+    "category": "Hobbies and Leisure"
+  },
+
+
+  {
+    "en": "Do you enjoy playing chess or checkers?",
+    "km": "តើអ្នកចូលចិត្តលេងអុក ឬល្បែងដំរីទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "What is your favorite hobby to do with family?",
+    "km": "តើចំណង់ចំណូលចិត្តអ្វីដែលអ្នកចូលចិត្តធ្វើជាមួយគ្រួសារបំផុត?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "How often do you go skating?",
+    "km": "តើអ្នកទៅជិះស្គីញឹកញាប់ប៉ុណ្ណា?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Do you like to make crafts or DIY projects?",
+    "km": "តើអ្នកចូលចិត្តធ្វើសិប្បកម្ម ឬគម្រោង DIY ទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Is swimming a relaxing activity for you?",
+    "km": "តើការហែលទឹកជាសកម្មភាពដែលធ្វើឱ្យអ្នកសម្រាកទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Do you enjoy learning new musical instruments?",
+    "km": "តើអ្នកចូលចិត្តរៀនលេងឧបករណ៍ភ្លេងថ្មីៗទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "What is the best place to relax outdoors nearby?",
+    "km": "តើកន្លែងណាល្អបំផុតសម្រាប់សម្រាកនៅខាងក្រៅជុំ_duplicate_0_vិញនេះ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Do you like to volunteer in your free time?",
+    "km": "តើអ្នកចូលចិត្តធ្វើការស្ម័គ្រចិត្តនៅពេលទំនេរទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "Have you ever tried rock climbing as a hobby?",
+    "km": "តើអ្នកធ្លាប់សាកល្បងឡើងភ្នំថ្មជាចំណង់ចំណូលចិត្តទេ?",
+    "category": "Hobbies and Leisure"
+  },
+  {
+    "en": "What is your favorite way to spend a rainy day?",
+    "km": "តើវិធីណាដែលអ្នកចូលចិត្តបំផុតសម្រាប់ចំណាយពេលនៅថ្ងៃភ្លៀង?",
+    "category": "Hobbies and Leisure"
+  },
+
+
+  {
+    "en": "How do you keep your house clean?",
+    "km": "តើអ្នករក្សាផ្ទះឱ្យស្អាតដោយរបៀបណា?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "What is your favorite room in the house?",
+    "km": "តើបន្ទប់ណាដែលអ្នកចូលចិត្តបំផុតនៅក្នុងផ្ទះ?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "Do you enjoy decorating your home?",
+    "km": "តើអ្នកចូលចិត្តតុបតែងផ្ទះរបស់អ្នកទេ?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "How often do you cook at home?",
+    "km": "តើអ្នកធ្វើម្ហូបនៅផ្ទះញឹកញាប់ប៉ុណ្ណា?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "What is the best way to organize a small space?",
+    "km": "តើវិធីល្អបំផុតដើម្បីរៀបចំកន្លែងតូចមួយជាអ្វី?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "Do you prefer a modern or traditional home style?",
+    "km": "តើអ្នកចូលចិត្តស្ទីលផ្ទះទំនើប ឬបែបបុរាណទេ?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "How do you save energy at home?",
+    "km": "តើអ្នកសន្សំថាមពលនៅផ្ទះដោយរបៀបណា?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "What is your favorite home-cooked meal?",
+    "km": "តើម្ហូបធ្វើនៅផ្ទះណាដែលអ្នកចូលចិត្តបំផុត?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "Do you have plants in your house?",
+    "km": "តើអ្នកមានរុក្ខជាតិនៅក្នុងផ្ទះរបស់អ្នកទេ?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "How do you make your home more comfortable?",
+    "km": "តើអ្នកធ្វើឱ្យផ្ទះរបស់អ្នកកាន់តែមានផាសុកភាពដោយរបៀបណា?",
+    "category": "Home and Living"
+  },
+
+
+  {
+    "en": "How do you choose furniture for your home?",
+    "km": "តើអ្នកជ្រើសរើសគ្រឿងសង្ហារិមសម្រាប់ផ្ទះរបស់អ្នកដោយរបៀបណា?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "What is the best way to save water at home?",
+    "km": "តើវិធីល្អបំផុតដើម្បីសនtheory: Home and Living",
+    "category": "Home and Living"
+  },
+  {
+    "en": "Do you like to rearrange your home often?",
+    "km": "តើអ្នកចូលចិត្តរៀបចំផ្ទះរបស់អ្នកឡើងវិញញឹកញាប់ទេ?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "What kind of lighting do you prefer in your house?",
+    "km": "តើអ្នកចូលចិត្តប្រភេទអំពូលភ្លើងបែបណានៅក្នុងផ្ទះរបស់អ្នក?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "How do you maintain your home garden?",
+    "km": "តើអ្នកថែរក្សាសួនច្បារផ្ទះរបស់អ្នកដោយរបៀបណា?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "Do you prefer a big or small house?",
+    "km": "តើអ្នកចូលចិត្តផ្ទះធំ ឬផ្ទះតូច?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "What is your favorite household chore?",
+    "km": "តើកិច្ចការផ្ទះណាដែលអ្នកចូលចិត្តបំផុត?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "How do you keep your kitchen organized?",
+    "km": "តើអ្នករក្សាផ្ទះបាយរបស់អ្នកឱ្យមានសណ្តាប់ដ្ឋានដោយរបៀបណា?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "Do you enjoy hosting guests at home?",
+    "km": "តើអ្នកចូលចិត្តធ្វើជាម្ចាស់ផ្ទះទទួលភ្ញៀវនៅផ្ទះទេ?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "What is the most important feature in a home?",
+    "km": "តើមុខងារសំខាន់បំផុតនៅក្នុងផ្ទះជាអ្វី?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "How do you make your home eco-friendly?",
+    "km": "តើអ្នកធ្វើឱ្យផ្ទះរបស់អ្នកមានភាពស្និទ្ធស្នាលនឹងបរិស្ថានដោយរបៀបណា?",
+    "category": "Home and Living"
+  },
+
+
+  {
+    "en": "How do you choose colors for your home decor?",
+    "km": "តើអ្នកជ្រើសរើសពណ៌សម្រាប់ការតុបតែងផ្ទះដោយរបៀបណា?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "Do you prefer a quiet or lively home environment?",
+    "km": "តើអ្នកចូលចិត្តបរិយាកាសផ្ទះស្ងប់ស្ងាត់ ឬរស់រវើក?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "What is the best way to store household items?",
+    "km": "តើវិធីល្អបំផុតសម្រាប់រក្សាទុករបស់របរក្នុងផ្ទះជាអ្វី?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "How often do you clean your windows?",
+    "km": "តើអ្នកសម្អាតបង្អួចញឹកញាប់ប៉ុណ្ណា?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "Do you enjoy doing home repairs yourself?",
+    "km": "តើអ្នកចូលចិត្តជួសជុលផ្ទះដោយខ្លួនឯងទេ?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "What is your favorite thing to cook for guests?",
+    "km": "តើម្ហូបអ្វីដែលអ្នកចូលចិត្តធ្វើសម្រាប់ភ្ញៀវបំផុត?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "How do you keep your home cool in the summer?",
+    "km": "តើអ្នករក្សាផ្ទះឱ្យត្រជាក់នៅរដូវក្តៅដោយរបៀបណា?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "Do you have a favorite spot to relax at home?",
+    "km": "តើអ្នកមានកន្លែងសំណព្វសម្រាប់សម្រាកនៅផ្ទះទេ?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "What is the best way to reduce clutter in your home?",
+    "km": "តើវិធីល្អបំផុតដើម្បីកាត់បន្ថយភាពរញ៉េរញ៉ៃនៅក្នុងផ្ទះជាអ្វី?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "Do you prefer wooden or tiled floors in your house?",
+    "km": "តើអ្នកចូលចិត្តជាន់ឈើ ឬជាន់ការ៉ូនៅក្នុងផ្ទះរបស់អ្នក?",
+    "category": "Home and Living"
+  },
+
+
+  {
+    "en": "How do you make your home smell nice?",
+    "km": "តើអ្នកធ្វើឱ្យផ្ទះរបស់អ្នកមានក្លិនល្អដោយរបៀបណា?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "Do you enjoy baking at home?",
+    "km": "តើអ្នកចូលចិត្តដុតនំនៅផ្ទះទេ?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "What is the best way to clean a bathroom?",
+    "km": "តើវិធីល្អបំផុតដើម្បីសម្អាតបន្ទប់ទឹកជាអ្វី?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "How do you organize your wardrobe?",
+    "km": "តើអ្នករៀបចំទូខោអាវរបស់អ្នកដោយរបៀបណា?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "Do you prefer a minimalist or cozy home style?",
+    "km": "តើអ្នកចូលចិត្តស្ទីលផ្ទះបែបសាមញ្ញ ឬបែបកក់ក្តៅ?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "What is your favorite home appliance?",
+    "km": "តើឧបករណ៍ប្រើប្រាស់ក្នុងផ្ទះណាដែលអ្នកចូលចិត្តបំផុត?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "How do you keep your home warm in the winter?",
+    "km": "តើអ្នករក្សាផ្ទះឱ្យកក់ក្តៅនៅរដូវរងាដោយរបៀបណា?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "Do you have a home office for work or study?",
+    "km": "តើអ្នកមានការិយាល័យនៅផ្ទះសម្រាប់ធ្វើការ ឬសិក្សាទេ?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "What is the best way to maintain wooden furniture?",
+    "km": "តើវិធីល្អបំផុតដើម្បីថែរក្សាគ្រឿងសង្ហារិមឈើជាអ្វី?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "Do you enjoy having a pet at home?",
+    "km": "តើអ្នកចូលចិត្តចិញ្ចឹមសត្វនៅផ្ទះទេ?",
+    "category": "Home and Living"
+  },
+
+
+  {
+    "en": "How do you choose curtains for your home?",
+    "km": "តើអ្នកជ្រើសរើសវាំងននសម្រាប់ផ្ទះរបស់អ្នកដោយរបៀបណា?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "Do you enjoy having a balcony or outdoor space?",
+    "km": "តើអ្នកចូលចិត្តមានយ៉រឬកន្លែងខាងក្រៅទេ?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "What is the best way to clean carpets at home?",
+    "km": "តើវិធីល្អបំផុតដើម្បីសម្អាតកម្រាលព្រំនៅផ្ទះជាអ្វី?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "How do you organize your books at home?",
+    "km": "តើអ្នករៀបចំសៀវភៅរបស់អ្នកនៅផ្ទះដោយរបៀបណា?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "Do you prefer open or closed kitchen designs?",
+    "km": "តើអ្នកចូលចិត្តការរចនាផ្ទះបាយបើកចំហ ឬបិទជិត?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "What is your favorite way to relax at home?",
+    "km": "តើវិធីណាដែលអ្នកចូលចិត្តបំផុតសម្រាប់សម្រាកនៅផ្ទះ?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "How do you manage household waste?",
+    "km": "តើអ្នកគ្រប់គ្រងសំរាមក្នុងផ្ទះដោយរបៀបណា?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "Do you like to have artwork on your walls?",
+    "km": "តើអ្នកចូលចិត្តមានស្នាដៃសិល្បៈនៅលើជញ្ជាំងរបស់អ្នកទេ?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "What is the best way to maintain a clean fridge?",
+    "km": "តើវិធីល្អបំផុតដើម្បីរក្សាទូទឹកកកឱ្យស្អាតជាអ្វី?",
+    "category": "Home and Living"
+  },
+  {
+    "en": "Do you enjoy spending time in your living room?",
+    "km": "តើអ្នកចូលចិត្តចំណាយពេលនៅក្នុងបន្ទប់ទទួលភ្ញៀវទេ?",
+    "category": "Home and Living"
+  },
+
+
+  {
+    "en": "What is your favorite subject in school?",
+    "km": "តើមុខវិជ្ជាអ្វីដែលអ្នកចូលចិត្តបំផុតនៅសាលា?",
+    "category": "Education and School"
+  },
+  {
+    "en": "How do you prepare for exams?",
+    "km": "តើអ្នករៀបចំសម្រាប់ការប្រឡងដោយរបៀបណា?",
+    "category": "Education and School"
+  },
+  {
+    "en": "Do you enjoy group study sessions?",
+    "km": "តើអ្នកចូលចិត្តសិក្សាជាក្រុមទេ?",
+    "category": "Education and School"
+  },
+  {
+    "en": "What is the best way to stay focused while studying?",
+    "km": "តើវិធីល្អបំផុតដើម្បីរក្សាការផ្តោតអារម្មណ៍ពេលសិក្សាជាអ្វី?",
+    "category": "Education and School"
+  },
+  {
+    "en": "How important is homework to you?",
+    "km": "តើកិច្ចការផ្ទះសំខាន់ប៉ុណ្ណាចំពោះអ្នក?",
+    "category": "Education and School"
+  },
+  {
+    "en": "Do you prefer learning online or in a classroom?",
+    "km": "តើអ្នកចូលចិត្តរៀនតាមអនឡាញ ឬនៅក្នុងថ្នាក់រៀន?",
+    "category": "Education and School"
+  },
+  {
+    "en": "What is your favorite school activity?",
+    "km": "តើសកម្មភាពសាលាដែលអ្នកចូលចិត្តបំផុតជាអ្វី?",
+    "category": "Education and School"
+  },
+  {
+    "en": "How do you manage your time for schoolwork?",
+    "km": "តើអ្នកគ្រប់គ្រងពេលវេលាសម្រាប់កិច្ចការសាលាដោយរបៀបណា?",
+    "category": "Education and School"
+  },
+  {
+    "en": "Do you like working on school projects?",
+    "km": "តើអ្នកចូលចិត្តធ្វើការលើគម្រោងសាលាទេ?",
+    "category": "Education and School"
+  },
+  {
+    "en": "What is the most important lesson you learned in school?",
+    "km": "តើមេរៀនសំខាន់បំផុតដែលអ្នកបានរៀននៅសាលាជាអ្វី?",
+    "category": "Education and School"
+  },
+
+
+  {
+    "en": "What is the best way to take notes in class?",
+    "km": "តើវិធីល្អបំផុតដើម្បីកត់ត្រានៅក្នុងថ្នាក់រៀនជាអ្វី?",
+    "category": "Education and School"
+  },
+  {
+    "en": "Do you enjoy participating in school clubs?",
+    "km": "តើអ្នកចូលចិត្តចូលរួមក្នុងក្លឹបសាលាទេ?",
+    "category": "Education and School"
+  },
+  {
+    "en": "How do you stay motivated to study?",
+    "km": "តើអ្នករក្សាកម្លាំងចិត្តសម្រាប់ការសិក្សាដោយរបៀបណា?",
+    "category": "Education and School"
+  },
+  {
+    "en": "What is your favorite book for school reading?",
+    "km": "តើសៀវភៅណាដែលអ្នកចូលចិត្តបំផុតសម្រាប់ការអាននៅសាលា?",
+    "category": "Education and School"
+  },
+  {
+    "en": "Do you prefer individual or group projects?",
+    "km": "តើអ្នកចូលចិត្តគម្រោងបុគ្គល ឬគម្រោងជាក្រុម?",
+    "category": "Education and School"
+  },
+  {
+    "en": "How do you handle difficult subjects in school?",
+    "km": "តើអ្នកដោះស្រាយមុខវិជ្ជាពិបាកនៅសាលាដោយរបៀបណា?",
+    "category": "Education and School"
+  },
+  {
+    "en": "What is the best way to prepare for a presentation?",
+    "km": "តើវិធីល្អបំផុតដើម្បីរៀបចំសម្រាប់ការធ្វើបទបង្ហាញជាអ្វី?",
+    "category": "Education and School"
+  },
+  {
+    "en": "Do you enjoy school field trips?",
+    "km": "តើអ្នកចូលចិត្តដំណើរកម្សាន្តសាលាទេ?",
+    "category": "Education and School"
+  },
+  {
+    "en": "How do you balance schoolwork and extracurricular activities?",
+    "km": "តើអ្នករក្សាតុល្យភាពរវាងកិច្ចការសាលា និងសកម្មភាពក្រៅម៉ោងដោយរបៀបណា?",
+    "category": "Education and School"
+  },
+  {
+    "en": "What is the most useful skill you learned in school?",
+    "km": "តើជំនាញណាដែលមានប្រយោជន៍បំផុតដែលអ្នកបានរៀននៅសាលា?",
+    "category": "Education and School"
+  },
+
+
+  {
+    "en": "What is the best way to improve your study habits?",
+    "km": "តើវិធីល្អបំផុតដើម្បីកែលម្អទម្លាប់សិក្សារបស់អ្នកជាអ្វី?",
+    "category": "Education and School"
+  },
+  {
+    "en": "Do you enjoy science experiments at school?",
+    "km": "តើអ្នកចូលចិត្តពិសោធន៍វិទ្យាសាស្ត្រនៅសាលាទេ?",
+    "category": "Education and School"
+  },
+  {
+    "en": "How do you deal with stress during exams?",
+    "km": "តើអ្នកដោះស្រាយភាពតានតឹងក្នុងអំឡុងពេលប្រឡងដោយរបៀបណា?",
+    "category": "Education and School"
+  },
+  {
+    "en": "What is your favorite school event?",
+    "km": "តើព្រឹត្តិការណ៍សាលាដែលអ្នកចូលចិត្តបំផុតជាអ្វី?",
+    "category": "Education and School"
+  },
+  {
+    "en": "Do you prefer studying in the morning or at night?",
+    "km": "តើអ្នកចូលចិត្តសិក្សានៅពេលព្រឹក ឬពេលយប់?",
+    "category": "Education and School"
+  },
+  {
+    "en": "How do you stay organized with school assignments?",
+    "km": "តើអ្នករក្សាសណ្តាប់ធ្នាប់ជាមួយកិច្ចការសាលាដោយរបៀបណា?",
+    "category": "Education and School"
+  },
+  {
+    "en": "What is the most interesting topic you studied in school?",
+    "km": "តើប្រធានបទគួរឱ្យចាប់អារម្មណ៍បំផុតដែលអ្នកបានសិក្សានៅសាលាជាអ្វី?",
+    "category": "Education and School"
+  },
+  {
+    "en": "Do you like participating in school debates?",
+    "km": "តើអ្នកចូលចិត្តចូលរួមក្នុងការជជែកពិភាក្សានៅសាលាទេ?",
+    "category": "Education and School"
+  },
+  {
+    "en": "How do you choose your school electives?",
+    "km": "តើអ្នកជ្រើសរើសមុខវិជ្ជាស្រេចចិត្តនៅសាលាដោយរបៀបណា?",
+    "category": "Education and School"
+  },
+  {
+    "en": "What is the best way to learn a new language in school?",
+    "km": "តើវិធីល្អបំផុតដើម្បីរៀនភាសាថ្មីនៅសាលាជាអ្វី?",
+    "category": "Education and School"
+  },
+
+
+  {
+    "en": "What is the best way to prepare for a math test?",
+    "km": "តើវិធីល្អបំផុតដើម្បីរៀបចំសម្រាប់ការប្រឡងគណិតវិទ្យាជាអ្វី?",
+    "category": "Education and School"
+  },
+  {
+    "en": "Do you enjoy art classes at school?",
+    "km": "តើអ្នកចូលចិត្តថ្នាក់សិល្បៈនៅសាលាទេ?",
+    "category": "Education and School"
+  },
+  {
+    "en": "How do you stay awake during long study sessions?",
+    "km": "តើអ្នករក្សាភាពស្វាម៉ីក្នុងអំឡុងពេលសិក្សាយូរដោយរបៀបណា?",
+    "category": "Education and School"
+  },
+  {
+    "en": "What is your favorite school subject to teach others?",
+    "km": "តើមុខវិជ្ជាសាលាដែលអ្នកចូលចិត្តបង្រៀនអ្នកដទៃជាអ្វី?",
+    "category": "Education and School"
+  },
+  {
+    "en": "Do you prefer written or oral exams?",
+    "km": "តើអ្នកចូលចិត្តការប្រឡងសរសេរ ឬប្រឡងផ្ទាល់មាត់?",
+    "category": "Education and School"
+  },
+  {
+    "en": "How do you make studying more fun?",
+    "km": "តើអ្នកធ្វើឱ្យការសិក្សាកាន់តែរីករាយដោយរបៀបណា?",
+    "category": "Education and School"
+  },
+  {
+    "en": "What is the best way to memorize information?",
+    "km": "តើវិធីល្អបំផុតដើម្បីចងចាំព័ត៌មានជាអ្វី?",
+    "category": "Education and School"
+  },
+  {
+    "en": "Do you like participating in school sports teams?",
+    "km": "តើអ្នកចូលចិត្តចូលរួមក្នុងក្រុមកីឡាសាលាទេ?",
+    "category": "Education and School"
+  },
+  {
+    "en": "How do you ask for help from teachers?",
+    "km": "តើអ្នកសុំជំនួយពីគ្រូបង្រៀនដោយរបៀបណា?",
+    "category": "Education and School"
+  },
+  {
+    "en": "What is the most challenging part of school for you?",
+    "km": "តើផ្នែកណាដែលពិបាកបំផុតនៅសាលាសម្រាប់អ្នក?",
+    "category": "Education and School"
+  },
+
+
+  {
+    "en": "Smartphones are essential for daily communication.",
+    "km": "ទូរស័ព្ទឆ្លាតវៃគឺចាំបាច់សម្រាប់ការទំនាក់ទំនងប្រចាំថ្ងៃ។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Social media helps people stay connected.",
+    "km": "បណ្តាញសង្គមជួយមនុស្សឱ្យរក្សាទំនាក់ទំនង។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "What is your favorite messaging app?",
+    "km": "តើកម្មវិធីផ្ញើសារដែលអ្នកចូលចិត្តបំផុតជាអ្វី?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Video calls make long-distance communication easier.",
+    "km": "ការហៅជាវីដេអូធ្វើឱ្យការទំនាក់ទំនងផ្លូវឆ្ងាយកាន់តែងាយស្រួល។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Email is widely used for professional communication.",
+    "km": "អ៊ីមែលត្រូវបានប្រើប្រាស់យ៉ាងទូលំទូលាយសម្រាប់ការទំនាក់ទំនងវិជ្ជាជីវៈ។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "How do you protect your online privacy?",
+    "km": "តើអ្នកការពារឯកជនភាពលើអនឡាញរបស់អ្នកដោយរបៀបណា?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Technology has changed the way we communicate.",
+    "km": "បច្ចេកវិទ្យាបានផ្លាស់ប្តូរវិធីដែលយើងទំនាក់ទំនង។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Many people use apps to learn new languages.",
+    "km": "មនុស្សជាច្រើនប្រើកម្មវិធីដើម្បីរៀនភាសាថ្មី។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Fast internet is important for video streaming.",
+    "km": "អ៊ីនធឺណិតលឿនគឺសំខាន់សម្រាប់ការផ្សាយវីដេអូ។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "What is the best device for video calls?",
+    "km": "តើឧបករណ៍ណាល្អបំផុតសម្រាប់ការហៅជាវីដេអូ?",
+    "category": "Communication and Technology"
+  },
+
+
+  {
+    "en": "Many children use tablets to attend online classes.",
+    "km": "កុមារជាច្រើនប្រើតាប្លេតដើម្បីចូលរៀនតាមអ៊ីនធឺណិត។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Texting is a quick way to communicate.",
+    "km": "ការផ្ញើសារសរសេរជារបៀបមួយនៃការទំនាក់ទំនងយ៉ាងរហ័ស។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Wireless headphones make listening more convenient.",
+    "km": "កាសឥតខ្សែធ្វើឲ្យការស្ដាប់កាន់តែមានភាពងាយស្រួល។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you prefer calling or texting your friends?",
+    "km": "តើអ្នកពេញចិត្តហៅទូរស័ព្ទឬផ្ញើសាររកមិត្តភក្តិរបស់អ្នក?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Digital literacy is important in the modern world.",
+    "km": "ការយល់ដឹងអំពីបច្ចេកវិទ្យាឌីជីថលគឺសំខាន់ក្នុងលោកសម័យទំនើប។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Smartwatches can send messages and track health.",
+    "km": "នាឡិកាឆ្លាតអាចផ្ញើសារ និងតាមដានសុខភាពបាន។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Online platforms help people work remotely.",
+    "km": "វេទិកាអនឡាញជួយមនុស្សធ្វើការពីចម្ងាយ។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "How often do you check your phone each day?",
+    "km": "តើអ្នកពិនិត្យទូរស័ព្ទប៉ុន្មានដងក្នុងមួយថ្ងៃ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Cybersecurity protects your information online.",
+    "km": "សន្តិសុខសាយបឺរការពារព័ត៌មានរបស់អ្នកនៅលើអ៊ីនធឺណិត។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Mobile apps help us stay organized and productive.",
+    "km": "កម្មវិធីទូរស័ព្ទជួយឲ្យយើងមានរបៀប និងផលិតភាពល្អ។",
+    "category": "Communication and Technology"
+  },
+
+
+  {
+    "en": "Many children use tablets to attend online classes.",
+    "km": "កុមារជាច្រើនប្រើតាប្លេតដើម្បីចូលរៀនតាមអ៊ីនធឺណិត។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Texting is a quick way to communicate.",
+    "km": "ការផ្ញើសារសរសេរជារបៀបមួយនៃការទំនាក់ទំនងយ៉ាងរហ័ស។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Wireless headphones make listening more convenient.",
+    "km": "កាសឥតខ្សែធ្វើឲ្យការស្ដាប់កាន់តែមានភាពងាយស្រួល។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you prefer calling or texting your friends?",
+    "km": "តើអ្នកពេញចិត្តហៅទូរស័ព្ទឬផ្ញើសាររកមិត្តភក្តិរបស់អ្នក?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Digital literacy is important in the modern world.",
+    "km": "ការយល់ដឹងអំពីបច្ចេកវិទ្យាឌីជីថលគឺសំខាន់ក្នុងលោកសម័យទំនើប។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Smartwatches can send messages and track health.",
+    "km": "នាឡិកាឆ្លាតអាចផ្ញើសារ និងតាមដានសុខភាពបាន។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Online platforms help people work remotely.",
+    "km": "វេទិកាអនឡាញជួយមនុស្សធ្វើការពីចម្ងាយ។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "How often do you check your phone each day?",
+    "km": "តើអ្នកពិនិត្យទូរស័ព្ទប៉ុន្មានដងក្នុងមួយថ្ងៃ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Cybersecurity protects your information online.",
+    "km": "សន្តិសុខសាយបឺរការពារព័ត៌មានរបស់អ្នកនៅលើអ៊ីនធឺណិត។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Mobile apps help us stay organized and productive.",
+    "km": "កម្មវិធីទូរស័ព្ទជួយឲ្យយើងមានរបៀប និងផលិតភាពល្អ។",
+    "category": "Communication and Technology"
+  },
+
+
+  {
+    "en": "Artificial intelligence is transforming communication.",
+    "km": "បញ្ញាសិប្បនិម្មិតកំពុងផ្លាស់ប្តូរការទំនាក់ទំនង។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you use voice assistants like Siri or Alexa?",
+    "km": "តើអ្នកប្រើជំនួយការសំឡេងដូចជា Siri ឬ Alexa ដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "People now use emojis to express emotions online.",
+    "km": "បច្ចុប្បន្នមនុស្សប្រើអ៊ីម៉ូជីដើម្បីបង្ហាញអារម្មណ៍នៅលើអ៊ីនធឺណិត។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Group chats are common in both work and social life.",
+    "km": "ការជជែកជាក្រុមគឺជារឿងធម្មតាទាំងក្នុងការងារ និងជីវិតសង្គម។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Technology can help reduce language barriers.",
+    "km": "បច្ចេកវិទ្យាអាចជួយបំប្លែងរបាំងភាសាបាន។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you follow any podcasts or online shows?",
+    "km": "តើអ្នកបានតាមដាន Podcast ឬកម្មវិធីអនឡាញណាមួយដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Many businesses use chatbots to communicate with customers.",
+    "km": "អាជីវកម្មជាច្រើនប្រើ chatbots ដើម្បីទាក់ទងជាមួយអតិថិជន។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Typing speed can affect your productivity.",
+    "km": "ល្បឿនវាយអក្សរអាចមានឥទ្ធិពលលើផលិតភាពរបស់អ្នក។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Are you comfortable using video conferencing tools?",
+    "km": "តើអ្នកមានផាសុខភាពក្នុងការប្រើឧបករណ៍ប្រជុំតាមវីដេអូដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Online reviews influence how people choose products.",
+    "km": "ការពិនិត្យអនឡាញមានឥទ្ធិពលដល់វិធីជ្រើសរើសផលិតផលរបស់មនុស្ស។",
+    "category": "Communication and Technology"
+  },
+
+
+  {
+    "en": "Do you think technology brings people closer or further apart?",
+    "km": "តើអ្នកគិតថាបច្ចេកវិទ្យាធ្វើឲ្យមនុស្សជិតគ្នា ឬឆ្ងាយគ្នាជាងមុន?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Children are learning to type at a very young age.",
+    "km": "កុមារកំពុងរៀនវាយអក្សរមុនអាយុសម័យ។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Video editing is now possible on mobile phones.",
+    "km": "ការកាត់តវីដេអូអាចធ្វើបានលើទូរស័ព្ទដៃឥឡូវនេះ។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "What apps do you use to stay informed about news?",
+    "km": "តើអ្នកប្រើកម្មវិធីអ្វីដើម្បីទទួលព័ត៌មាន?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "People often share their lives through photos and videos.",
+    "km": "មនុស្សជាច្រើនចូលចិត្តចែករំលែកជីវិតរបស់ពួកគាត់តាមរយៈរូបភាព និងវីដេអូ។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you feel safe sharing personal information online?",
+    "km": "តើអ្នកមានអារម្មណ៍ថាមានសុវត្ថិភាពក្នុងការចែករំលែកព័ត៌មានផ្ទាល់ខ្លួនលើអ៊ីនធឺណិតដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Online meetings have become the norm in many workplaces.",
+    "km": "ការប្រជុំតាមអ៊ីនធឺណិតក្លាយជារឿងធម្មតាក្នុងកន្លែងធ្វើការជាច្រើន។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Translation apps help travelers communicate abroad.",
+    "km": "កម្មវិធីបកប្រែជួយអ្នកធ្វើដំណើរទំនាក់ទំនងនៅបរទេស។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "People rely on cloud storage to save their files.",
+    "km": "មនុស្សពឹងផ្អែកលើការផ្ទុក cloud ដើម្បីរក្សាទុកឯកសារ។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Have you ever taken an online course?",
+    "km": "តើអ្នកធ្លាប់បានចូលរួមវគ្គសិក្សាអនឡាញដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+
+
+  {
+    "en": "Do you think texting while walking is dangerous?",
+    "km": "តើអ្នកគិតថាការផ្ញើសារពេលដើរមានគ្រោះថ្នាក់ដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Technology allows us to work from anywhere.",
+    "km": "បច្ចេកវិទ្យាធ្វើឲ្យយើងអាចធ្វើការពីទីណាក៏បាន។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Parents often monitor their children’s online activity.",
+    "km": "ឪពុកម្តាយជាច្រើនតែងតែត្រួតពិនិត្យសកម្មភាពអនឡាញរបស់កុមារ។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "What are the pros and cons of social media?",
+    "km": "តើមានអត្ថប្រយោជន៍និងគុណវិបត្តិអ្វីខ្លះពីបណ្តាញសង្គម?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you read more news online or on paper?",
+    "km": "តើអ្នកអានព័ត៌មានតាមអ៊ីនធឺណិតច្រើនជាង ឬតាមកាសែតច្រើនជាង?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Technology helps people with disabilities communicate.",
+    "km": "បច្ចេកវិទ្យាជួយមនុស្សដែលមានពិការភាពក្នុងការទំនាក់ទំនង។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you use any tools to manage your screen time?",
+    "km": "តើអ្នកប្រើឧបករណ៍ណាមួយដើម្បីគ្រប់គ្រងពេលវេលាដែលអ្នកមើលអេក្រង់ដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Technology keeps evolving rapidly.",
+    "km": "បច្ចេកវិទ្យាកំពុងអភិវឌ្ឍរហ័សបំផុត។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Online forums are places to share knowledge and ideas.",
+    "km": "វេទិកាអនឡាញគឺជាកន្លែងចែករំលែកចំណេះដឹងនិងគំនិត។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you trust news you see on social media?",
+    "km": "តើអ្នកទុកចិត្តព័ត៌មានដែលអ្នកឃើញលើបណ្តាញសង្គមដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+
+
+  {
+    "en": "Digital communication has changed how we build relationships.",
+    "km": "ការទំនាក់ទំនងឌីជីថលបានផ្លាស់ប្តូរវិធីសាស្ត្រកសាងទំនាក់ទំនងរបស់យើង។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "How does misinformation spread on digital platforms?",
+    "km": "តើព័ត៌មានមិនពិតបង្កើតការរីករាលដាលលើវេទិកាឌីជីថលដូចម្តេច?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you think social media affects mental health?",
+    "km": "តើអ្នកគិតថាបណ្តាញសង្គមមានឥទ្ធិពលដល់សុខភាពផ្លូវចិត្តដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Technology can both connect and isolate people.",
+    "km": "បច្ចេកវិទ្យាអាចទាំងភ្ជាប់និងដាច់ខាតមនុស្សពីគ្នា។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you manage multiple email accounts?",
+    "km": "តើអ្នកគ្រប់គ្រងគណនីអ៊ីមែលច្រើនដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Some people feel pressure to always respond quickly online.",
+    "km": "មនុស្សខ្លះមានអារម្មណ៍ត្រូវបង្ខំឱ្យឆ្លើយតបលឿនជានិច្ចនៅលើអ៊ីនធឺណិត។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "What features do you value most in a smartphone?",
+    "km": "តើអ្វីខ្លះជាលក្ខណៈពិសេសដែលអ្នកអះអាងថាសំខាន់បំផុតនៅក្នុងទូរស័ព្ទឆ្លាត?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you attend webinars or online conferences?",
+    "km": "តើអ្នកចូលរួមវេប៊ីណារ ឬសន្និសីទអនឡាញដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Typing on mobile devices is a key communication skill today.",
+    "km": "ការវាយអក្សរលើឧបករណ៍ចល័តគឺជាជំនាញទំនាក់ទំនងសំខាន់សព្វថ្ងៃ។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Online etiquette is important when interacting digitally.",
+    "km": "ការទប់ទល់នឹងអនឡាញយ៉ាងសុចរិតគឺមានសារៈសំខាន់នៅក្នុងការទំនាក់ទំនងឌីជីថល។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you use encrypted messaging apps for privacy?",
+    "km": "តើអ្នកប្រើកម្មវិធីផ្ញើសារដែលមានការអ៊ិនគ្រីបសម្រាប់ការរក្សាឯកជនភាពដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Many students rely on video tutorials for learning.",
+    "km": "សិស្សជាច្រើនពឹងផ្អែកលើវីដេអូបង្រៀនសម្រាប់ការសិក្សា។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "What role does technology play in education today?",
+    "km": "តើបច្ចេកវិទ្យាមានบทบาทអ្វីក្នុងការអប់រំពេលបច្ចុប្បន្ន?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you backup your data regularly?",
+    "km": "តើអ្នកធ្វើការចម្លងទិន្នន័យរបស់អ្នកជាទៀងទាត់ដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Online collaboration tools have transformed teamwork.",
+    "km": "ឧបករណ៍សហការអនឡាញបានផ្លាស់ប្តូរវិធីធ្វើការជាក្រុម។",
+    "category": "Communication and Technology"
+  },
+
+
+  {
+    "en": "Smartphones are essential for daily communication.",
+    "km": "ទូរស័ព្ទឆ្លាតវៃគឺចាំបាច់សម្រាប់ការទំនាក់ទំនងប្រចាំថ្ងៃ។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Social media helps people stay connected.",
+    "km": "បណ្តាញសង្គមជួយមនុស្សឱ្យរក្សាទំនាក់ទំនង។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "What is your favorite messaging app?",
+    "km": "តើកម្មវិធីផ្ញើសារដែលអ្នកចូលចិត្តបំផុតជាអ្វី?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Video calls make long-distance communication easier.",
+    "km": "ការហៅជាវីដេអូធ្វើឱ្យការទំនាក់ទំនងផ្លូវឆ្ងាយកាន់តែងាយស្រួល។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Email is widely used for professional communication.",
+    "km": "អ៊ីមែលត្រូវបានប្រើប្រាស់យ៉ាងទូលំទូលាយសម្រាប់ការទំនាក់ទំនងវិជ្ជាជីវៈ។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "How do you protect your online privacy?",
+    "km": "តើអ្នកការពារឯកជនភាពលើអនឡាញរបស់អ្នកដោយរបៀបណា?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Technology has changed the way we communicate.",
+    "km": "បច្ចេកវិទ្យាបានផ្លាស់ប្តូរវិធីដែលយើងទំនាក់ទំនង។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Many people use apps to learn new languages.",
+    "km": "មនុស្សជាច្រើនប្រើកម្មវិធីដើម្បីរៀនភាសាថ្មី។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Fast internet is important for video streaming.",
+    "km": "អ៊ីនធឺណិតលឿនគឺសំខាន់សម្រាប់ការផ្សាយវីដេអូ។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "What is the best device for video calls?",
+    "km": "តើឧបករណ៍ណាល្អបំផុតសម្រាប់ការហៅជាវីដេអូ?",
+    "category": "Communication and Technology"
+  },
+
+
+  {
+    "en": "Education empowers people to build a better future.",
+    "km": "ការអប់រំធ្វើឲ្យមនុស្សមានអំណាចក្នុងការបង្កើតអនាគតល្អប្រសើរ។",
+    "category": "Education"
+  },
+  {
+    "en": "What subjects do you enjoy studying the most?",
+    "km": "តើមុខវិជ្ជាណាដែលអ្នកចូលចិត្តសិក្សាដល់បំផុត?",
+    "category": "Education"
+  },
+
+
+  {
+    "en": "Many children use tablets to attend online classes.",
+    "km": "កុមារជាច្រើនប្រើតាប្លេតដើម្បីចូលរៀនតាមអ៊ីនធឺណិត។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Texting is a quick way to communicate.",
+    "km": "ការផ្ញើសារសរសេរជារបៀបមួយនៃការទំនាក់ទំនងយ៉ាងរហ័ស។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Wireless headphones make listening more convenient.",
+    "km": "កាសឥតខ្សែធ្វើឲ្យការស្ដាប់កាន់តែមានភាពងាយស្រួល។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you prefer calling or texting your friends?",
+    "km": "តើអ្នកពេញចិត្តហៅទូរស័ព្ទឬផ្ញើសាររកមិត្តភក្តិរបស់អ្នក?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Digital literacy is important in the modern world.",
+    "km": "ការយល់ដឹងអំពីបច្ចេកវិទ្យាឌីជីថលគឺសំខាន់ក្នុងលោកសម័យទំនើប។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Smartwatches can send messages and track health.",
+    "km": "នាឡិកាឆ្លាតអាចផ្ញើសារ និងតាមដានសុខភាពបាន។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Online platforms help people work remotely.",
+    "km": "វេទិកាអនឡាញជួយមនុស្សធ្វើការពីចម្ងាយ។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "How often do you check your phone each day?",
+    "km": "តើអ្នកពិនិត្យទូរស័ព្ទប៉ុន្មានដងក្នុងមួយថ្ងៃ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Cybersecurity protects your information online.",
+    "km": "សន្តិសុខសាយបឺរការពារព័ត៌មានរបស់អ្នកនៅលើអ៊ីនធឺណិត។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Mobile apps help us stay organized and productive.",
+    "km": "កម្មវិធីទូរស័ព្ទជួយឲ្យយើងមានរបៀប និងផលិតភាពល្អ។",
+    "category": "Communication and Technology"
+  },
+
+
+  {
+    "en": "Artificial intelligence is transforming communication.",
+    "km": "បញ្ញាសិប្បនិម្មិតកំពុងផ្លាស់ប្តូរការទំនាក់ទំនង។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you use voice assistants like Siri or Alexa?",
+    "km": "តើអ្នកប្រើជំនួយការសំឡេងដូចជា Siri ឬ Alexa ដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "People now use emojis to express emotions online.",
+    "km": "បច្ចុប្បន្នមនុស្សប្រើអ៊ីម៉ូជីដើម្បីបង្ហាញអារម្មណ៍នៅលើអ៊ីនធឺណិត។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Group chats are common in both work and social life.",
+    "km": "ការជជែកជាក្រុមគឺជារឿងធម្មតាទាំងក្នុងការងារ និងជីវិតសង្គម។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Technology can help reduce language barriers.",
+    "km": "បច្ចេកវិទ្យាអាចជួយបំប្លែងរបាំងភាសាបាន។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you follow any podcasts or online shows?",
+    "km": "តើអ្នកបានតាមដាន Podcast ឬកម្មវិធីអនឡាញណាមួយដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Many businesses use chatbots to communicate with customers.",
+    "km": "អាជីវកម្មជាច្រើនប្រើ chatbots ដើម្បីទាក់ទងជាមួយអតិថិជន។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Typing speed can affect your productivity.",
+    "km": "ល្បឿនវាយអក្សរអាចមានឥទ្ធិពលលើផលិតភាពរបស់អ្នក។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Are you comfortable using video conferencing tools?",
+    "km": "តើអ្នកមានផាសុខភាពក្នុងការប្រើឧបករណ៍ប្រជុំតាមវីដេអូដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Online reviews influence how people choose products.",
+    "km": "ការពិនិត្យអនឡាញមានឥទ្ធិពលដល់វិធីជ្រើសរើសផលិតផលរបស់មនុស្ស។",
+    "category": "Communication and Technology"
+  },
+
+
+  {
+    "en": "Do you think technology brings people closer or further apart?",
+    "km": "តើអ្នកគិតថាបច្ចេកវិទ្យាធ្វើឲ្យមនុស្សជិតគ្នា ឬឆ្ងាយគ្នាជាងមុន?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Children are learning to type at a very young age.",
+    "km": "កុមារកំពុងរៀនវាយអក្សរមុនអាយុសម័យ។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Video editing is now possible on mobile phones.",
+    "km": "ការកាត់តវីដេអូអាចធ្វើបានលើទូរស័ព្ទដៃឥឡូវនេះ។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "What apps do you use to stay informed about news?",
+    "km": "តើអ្នកប្រើកម្មវិធីអ្វីដើម្បីទទួលព័ត៌មាន?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "People often share their lives through photos and videos.",
+    "km": "មនុស្សជាច្រើនចូលចិត្តចែករំលែកជីវិតរបស់ពួកគាត់តាមរយៈរូបភាព និងវីដេអូ។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you feel safe sharing personal information online?",
+    "km": "តើអ្នកមានអារម្មណ៍ថាមានសុវត្ថិភាពក្នុងការចែករំលែកព័ត៌មានផ្ទាល់ខ្លួនលើអ៊ីនធឺណិតដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Online meetings have become the norm in many workplaces.",
+    "km": "ការប្រជុំតាមអ៊ីនធឺណិតក្លាយជារឿងធម្មតាក្នុងកន្លែងធ្វើការជាច្រើន។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Translation apps help travelers communicate abroad.",
+    "km": "កម្មវិធីបកប្រែជួយអ្នកធ្វើដំណើរទំនាក់ទំនងនៅបរទេស។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "People rely on cloud storage to save their files.",
+    "km": "មនុស្សពឹងផ្អែកលើការផ្ទុក cloud ដើម្បីរក្សាទុកឯកសារ។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Have you ever taken an online course?",
+    "km": "តើអ្នកធ្លាប់បានចូលរួមវគ្គសិក្សាអនឡាញដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+
+
+  {
+    "en": "Do you think texting while walking is dangerous?",
+    "km": "តើអ្នកគិតថាការផ្ញើសារពេលដើរមានគ្រោះថ្នាក់ដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Technology allows us to work from anywhere.",
+    "km": "បច្ចេកវិទ្យាធ្វើឲ្យយើងអាចធ្វើការពីទីណាក៏បាន។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Parents often monitor their children’s online activity.",
+    "km": "ឪពុកម្តាយជាច្រើនតែងតែត្រួតពិនិត្យសកម្មភាពអនឡាញរបស់កុមារ។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "What are the pros and cons of social media?",
+    "km": "តើមានអត្ថប្រយោជន៍និងគុណវិបត្តិអ្វីខ្លះពីបណ្តាញសង្គម?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you read more news online or on paper?",
+    "km": "តើអ្នកអានព័ត៌មានតាមអ៊ីនធឺណិតច្រើនជាង ឬតាមកាសែតច្រើនជាង?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Technology helps people with disabilities communicate.",
+    "km": "បច្ចេកវិទ្យាជួយមនុស្សដែលមានពិការភាពក្នុងការទំនាក់ទំនង។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you use any tools to manage your screen time?",
+    "km": "តើអ្នកប្រើឧបករណ៍ណាមួយដើម្បីគ្រប់គ្រងពេលវេលាដែលអ្នកមើលអេក្រង់ដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Technology keeps evolving rapidly.",
+    "km": "បច្ចេកវិទ្យាកំពុងអភិវឌ្ឍរហ័សបំផុត។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Online forums are places to share knowledge and ideas.",
+    "km": "វេទិកាអនឡាញគឺជាកន្លែងចែករំលែកចំណេះដឹងនិងគំនិត។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you trust news you see on social media?",
+    "km": "តើអ្នកទុកចិត្តព័ត៌មានដែលអ្នកឃើញលើបណ្តាញសង្គមដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+
+
+  {
+    "en": "Digital communication has changed how we build relationships.",
+    "km": "ការទំនាក់ទំនងឌីជីថលបានផ្លាស់ប្តូរវិធីសាស្ត្រកសាងទំនាក់ទំនងរបស់យើង។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "How does misinformation spread on digital platforms?",
+    "km": "តើព័ត៌មានមិនពិតបង្កើតការរីករាលដាលលើវេទិកាឌីជីថលដូចម្តេច?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you think social media affects mental health?",
+    "km": "តើអ្នកគិតថាបណ្តាញសង្គមមានឥទ្ធិពលដល់សុខភាពផ្លូវចិត្តដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Technology can both connect and isolate people.",
+    "km": "បច្ចេកវិទ្យាអាចទាំងភ្ជាប់និងដាច់ខាតមនុស្សពីគ្នា។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you manage multiple email accounts?",
+    "km": "តើអ្នកគ្រប់គ្រងគណនីអ៊ីមែលច្រើនដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Some people feel pressure to always respond quickly online.",
+    "km": "មនុស្សខ្លះមានអារម្មណ៍ត្រូវបង្ខំឱ្យឆ្លើយតបលឿនជានិច្ចនៅលើអ៊ីនធឺណិត។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "What features do you value most in a smartphone?",
+    "km": "តើអ្វីខ្លះជាលក្ខណៈពិសេសដែលអ្នកអះអាងថាសំខាន់បំផុតនៅក្នុងទូរស័ព្ទឆ្លាត?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you attend webinars or online conferences?",
+    "km": "តើអ្នកចូលរួមវេប៊ីណារ ឬសន្និសីទអនឡាញដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Typing on mobile devices is a key communication skill today.",
+    "km": "ការវាយអក្សរលើឧបករណ៍ចល័តគឺជាជំនាញទំនាក់ទំនងសំខាន់សព្វថ្ងៃ។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Online etiquette is important when interacting digitally.",
+    "km": "ការទប់ទល់នឹងអនឡាញយ៉ាងសុចរិតគឺមានសារៈសំខាន់នៅក្នុងការទំនាក់ទំនងឌីជីថល។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you use encrypted messaging apps for privacy?",
+    "km": "តើអ្នកប្រើកម្មវិធីផ្ញើសារដែលមានការអ៊ិនគ្រីបសម្រាប់ការរក្សាឯកជនភាពដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Many students rely on video tutorials for learning.",
+    "km": "សិស្សជាច្រើនពឹងផ្អែកលើវីដេអូបង្រៀនសម្រាប់ការសិក្សា។",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "What role does technology play in education today?",
+    "km": "តើបច្ចេកវិទ្យាមានบทบาทអ្វីក្នុងការអប់រំពេលបច្ចុប្បន្ន?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Do you backup your data regularly?",
+    "km": "តើអ្នកធ្វើការចម្លងទិន្នន័យរបស់អ្នកជាទៀងទាត់ដែរឬទេ?",
+    "category": "Communication and Technology"
+  },
+  {
+    "en": "Online collaboration tools have transformed teamwork.",
+    "km": "ឧបករណ៍សហការអនឡាញបានផ្លាស់ប្តូរវិធីធ្វើការជាក្រុម។",
+    "category": "Communication and Technology"
+  }
+
+
+]
