@@ -2,6 +2,7 @@ from fastapi import FastAPI
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 import json
+import os
 
 app = FastAPI()
 
@@ -57,3 +58,7 @@ def get_level(level_name: str):
         return JSONResponse(content=data)
     except FileNotFoundError:
         return JSONResponse(content={"error": "File not found"}, status_code=404)
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=int(os.environ.get("PORT", 10000)))
